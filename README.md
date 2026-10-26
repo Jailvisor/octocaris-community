@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **243 张壁纸 · 8.3 GB** 压缩包。
+- **263 张壁纸 · 9.0 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -277,4 +277,24 @@
 <tr id="2907704419"><td><a href="previews/2907704419.gif"><img src="thumbs/2907704419.webp" width="96" alt=""></a></td><td><strong>萌绘｜moe｜モエ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2907704419</code></td><td align="right">1.0.0<br>50.4 MB</td></tr>
 <tr id="3690702716"><td><a href="previews/3690702716.gif"><img src="thumbs/3690702716.webp" width="96" alt=""></a></td><td><strong>蕾娜｜rena｜レナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3690702716</code></td><td align="right">1.0.0<br>55.2 MB</td></tr>
 <tr id="3393171415"><td><a href="previews/3393171415.gif"><img src="thumbs/3393171415.webp" width="96" alt=""></a></td><td><strong>诺亚(睡衣)｜noa(pajama)｜ノア(パジャマ)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3393171415</code></td><td align="right">1.0.0<br>32.2 MB</td></tr>
+<tr id="2906412831"><td><a href="previews/2906412831.gif"><img src="thumbs/2906412831.webp" width="96" alt=""></a></td><td><strong>诺亚｜noa｜ノア｜Blue Archive</strong><br><span>Z_DK</span><br><code>2906412831</code></td><td align="right">1.0.0<br>33.9 MB</td></tr>
+<tr id="3614521012"><td><a href="previews/3614521012.gif"><img src="thumbs/3614521012.webp" width="96" alt=""></a></td><td><strong>贵音｜takene｜タカネ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3614521012</code></td><td align="right">1.0.0<br>52.9 MB</td></tr>
+<tr id="2950573805"><td><a href="previews/2950573805.gif"><img src="thumbs/2950573805.webp" width="96" alt=""></a></td><td><strong>遥香(新春)｜haruka(newyear)｜ハルカ(正月)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2950573805</code></td><td align="right">1.0.0<br>18.8 MB</td></tr>
+<tr id="3736844922"><td><a href="previews/3736844922.gif"><img src="thumbs/3736844922.webp" width="96" alt=""></a></td><td><strong>遥香(礼服)｜haruka(dress)｜ハルカ(ドレス)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3736844922</code></td><td align="right">1.0.0<br>45.0 MB</td></tr>
+<tr id="2953383349"><td><a href="previews/2953383349.gif"><img src="thumbs/2953383349.webp" width="96" alt=""></a></td><td><strong>遥香｜haruka｜ハルカ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2953383349</code></td><td align="right">1.0.0<br>32.8 MB</td></tr>
+<tr id="2946841419"><td><a href="previews/2946841419.gif"><img src="thumbs/2946841419.webp" width="96" alt=""></a></td><td><strong>野乃美(泳装)｜nonomi(swim)｜ノノミ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2946841419</code></td><td align="right">1.0.0<br>38.2 MB</td></tr>
+<tr id="2929769423"><td><a href="previews/2929769423.gif"><img src="thumbs/2929769423.webp" width="96" alt=""></a></td><td><strong>野乃美｜nonomi｜ノノミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2929769423</code></td><td align="right">1.0.0<br>32.9 MB</td></tr>
+<tr id="3350141757"><td><a href="previews/3350141757.gif"><img src="thumbs/3350141757.webp" width="96" alt=""></a></td><td><strong>野宫｜nonomi｜ノノミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3350141757</code></td><td align="right">1.0.0<br>27.4 MB</td></tr>
+<tr id="2972117497"><td><a href="previews/2972117497.gif"><img src="thumbs/2972117497.webp" width="96" alt=""></a></td><td><strong>铃美｜suzumi｜スズミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2972117497</code></td><td align="right">1.0.0<br>29.7 MB</td></tr>
+<tr id="2902389608"><td><a href="previews/2902389608.gif"><img src="thumbs/2902389608.webp" width="96" alt=""></a></td><td><strong>阿露(新春)｜aru(newyear)｜アル(正月)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2902389608</code></td><td align="right">1.0.0<br>36.4 MB</td></tr>
+<tr id="3165343031"><td><a href="previews/3165343031.gif"><img src="thumbs/3165343031.webp" width="96" alt=""></a></td><td><strong>阿露(礼服)｜aru(dress)｜アル(ドレス)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3165343031</code></td><td align="right">1.0.0<br>25.5 MB</td></tr>
+<tr id="2935725795"><td><a href="previews/2935725795.gif"><img src="thumbs/2935725795.webp" width="96" alt=""></a></td><td><strong>阿露｜aru｜アル｜Blue Archive</strong><br><span>Z_DK</span><br><code>2935725795</code></td><td align="right">1.0.0<br>31.0 MB</td></tr>
+<tr id="3042004826"><td><a href="previews/3042004826.gif"><img src="thumbs/3042004826.webp" width="96" alt=""></a></td><td><strong>霞｜kasumi｜カスミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3042004826</code></td><td align="right">1.0.0<br>42.6 MB</td></tr>
+<tr id="3480899330"><td><a href="previews/3480899330.gif"><img src="thumbs/3480899330.webp" width="96" alt=""></a></td><td><strong>青叶｜aoba｜アオバ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3480899330</code></td><td align="right">1.0.0<br>46.6 MB</td></tr>
+<tr id="2947236727"><td><a href="previews/2947236727.gif"><img src="thumbs/2947236727.webp" width="96" alt=""></a></td><td><strong>静子(泳装)｜shizuko(swim)｜シズコ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2947236727</code></td><td align="right">1.0.0<br>31.0 MB</td></tr>
+<tr id="2941527205"><td><a href="previews/2941527205.gif"><img src="thumbs/2941527205.webp" width="96" alt=""></a></td><td><strong>静子｜shizuko｜シズコ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2941527205</code></td><td align="right">1.0.0<br>25.6 MB</td></tr>
+<tr id="3719541408"><td><a href="previews/3719541408.gif"><img src="thumbs/3719541408.webp" width="96" alt=""></a></td><td><strong>音葵｜otogi｜オトギ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3719541408</code></td><td align="right">1.0.0<br>43.9 MB</td></tr>
+<tr id="3059922203"><td><a href="previews/3059922203.gif"><img src="thumbs/3059922203.webp" width="96" alt=""></a></td><td><strong>食蜂操祈｜misaki｜ミサキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3059922203</code></td><td align="right">1.0.0<br>43.1 MB</td></tr>
+<tr id="2951025084"><td><a href="previews/2951025084.gif"><img src="thumbs/2951025084.webp" width="96" alt=""></a></td><td><strong>鹤城(泳装)｜tsurugi(swim)｜ツルギ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2951025084</code></td><td align="right">1.0.0<br>32.8 MB</td></tr>
+<tr id="2971249795"><td><a href="previews/2971249795.gif"><img src="thumbs/2971249795.webp" width="96" alt=""></a></td><td><strong>鹤城｜tsurugi｜ツルギ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2971249795</code></td><td align="right">1.0.0<br>28.4 MB</td></tr>
 </table>
