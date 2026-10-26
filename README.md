@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **223 张壁纸 · 7.6 GB** 压缩包。
+- **243 张壁纸 · 8.3 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -256,5 +256,25 @@
 <tr id="2901948139"><td><a href="previews/2901948139.gif"><img src="thumbs/2901948139.webp" width="96" alt=""></a></td><td><strong>花江(圣诞)｜hanae(xmas)｜ハナエ(クリスマス)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2901948139</code></td><td align="right">1.0.0<br>36.4 MB</td></tr>
 <tr id="2898286196"><td><a href="previews/2898286196.gif"><img src="thumbs/2898286196.webp" width="96" alt=""></a></td><td><strong>花江｜hanae｜ハナエ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2898286196</code></td><td align="right">1.0.0<br>26.2 MB</td></tr>
 <tr id="2901689763"><td><a href="previews/2901689763.gif"><img src="thumbs/2901689763.webp" width="96" alt=""></a></td><td><strong>芹娜(圣诞)｜serina(xmas)｜セリナ(クリスマス)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2901689763</code></td><td align="right">1.0.0<br>44.6 MB</td></tr>
+<tr id="2897895090"><td><a href="previews/2897895090.gif"><img src="thumbs/2897895090.webp" width="96" alt=""></a></td><td><strong>芹娜｜serina｜セリナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2897895090</code></td><td align="right">1.0.0<br>35.4 MB</td></tr>
+<tr id="2966157956"><td><a href="previews/2966157956.gif"><img src="thumbs/2966157956.webp" width="96" alt=""></a></td><td><strong>芹香(新年)｜serika(newyear)｜セリカ(正月)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2966157956</code></td><td align="right">1.0.0<br>26.8 MB</td></tr>
+<tr id="3263287234"><td><a href="previews/3263287234.gif"><img src="thumbs/3263287234.webp" width="96" alt=""></a></td><td><strong>芹香(泳装)｜serika(swim)｜セリカ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3263287234</code></td><td align="right">1.0.0<br>37.6 MB</td></tr>
+<tr id="2929340486"><td><a href="previews/2929340486.gif"><img src="thumbs/2929340486.webp" width="96" alt=""></a></td><td><strong>芹香｜serika｜セリカ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2929340486</code></td><td align="right">1.0.0<br>43.3 MB</td></tr>
+<tr id="2978771032"><td><a href="previews/2978771032.gif"><img src="thumbs/2978771032.webp" width="96" alt=""></a></td><td><strong>若藻(泳装)｜wakamo(swim)｜ワカモ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2978771032</code></td><td align="right">1.0.0<br>25.5 MB</td></tr>
+<tr id="2978190988"><td><a href="previews/2978190988.gif"><img src="thumbs/2978190988.webp" width="96" alt=""></a></td><td><strong>若藻｜wakamo｜ワカモ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2978190988</code></td><td align="right">1.0.0<br>28.8 MB</td></tr>
+<tr id="2945326861"><td><a href="previews/2945326861.gif"><img src="thumbs/2945326861.webp" width="96" alt=""></a></td><td><strong>茜(兔女郎)｜akane(bunny)｜アカネ(バニーガール)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2945326861</code></td><td align="right">1.0.0<br>28.6 MB</td></tr>
+<tr id="2924719537"><td><a href="previews/2924719537.gif"><img src="thumbs/2924719537.webp" width="96" alt=""></a></td><td><strong>茜｜akane｜アカネ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2924719537</code></td><td align="right">1.0.0<br>22.3 MB</td></tr>
+<tr id="3417395751"><td><a href="previews/3417395751.gif"><img src="thumbs/3417395751.webp" width="96" alt=""></a></td><td><strong>莉音｜rio｜リオ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3417395751</code></td><td align="right">1.0.0<br>21.0 MB</td></tr>
+<tr id="3517113376"><td><a href="previews/3517113376.gif"><img src="thumbs/3517113376.webp" width="96" alt=""></a></td><td><strong>莲华(泳装)｜renge(swim)｜レンゲ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3517113376</code></td><td align="right">1.0.0<br>53.3 MB</td></tr>
+<tr id="3091818286"><td><a href="previews/3091818286.gif"><img src="thumbs/3091818286.webp" width="96" alt=""></a></td><td><strong>莲华｜renge｜レンゲ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3091818286</code></td><td align="right">1.0.0<br>30.5 MB</td></tr>
+<tr id="3536545145"><td><a href="previews/3536545145.gif"><img src="thumbs/3536545145.webp" width="96" alt=""></a></td><td><strong>莲见(泳装)｜hasimi(swim)｜ハシミ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3536545145</code></td><td align="right">1.0.0<br>48.8 MB</td></tr>
+<tr id="2959368951"><td><a href="previews/2959368951.gif"><img src="thumbs/2959368951.webp" width="96" alt=""></a></td><td><strong>莲见(运动服)｜hasumi(sports)｜ハスミ(体操服)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2959368951</code></td><td align="right">1.0.0<br>22.7 MB</td></tr>
+<tr id="2958843208"><td><a href="previews/2958843208.gif"><img src="thumbs/2958843208.webp" width="96" alt=""></a></td><td><strong>莲见｜hasumi｜ハスミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2958843208</code></td><td align="right">1.0.0<br>26.2 MB</td></tr>
+<tr id="3452931677"><td><a href="previews/3452931677.gif"><img src="thumbs/3452931677.webp" width="96" alt=""></a></td><td><strong>菫(打工)｜sumire(part-timer)｜スミレ(バイト)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3452931677</code></td><td align="right">1.0.0<br>25.5 MB</td></tr>
 <tr id="3481411508"><td><a href="previews/3481411508.gif"><img src="thumbs/3481411508.webp" width="96" alt=""></a></td><td><strong>菲娜(导游)｜pina(guide)｜ピナ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3481411508</code></td><td align="right">1.0.1<br>40.0 MB</td></tr>
+<tr id="2883779712"><td><a href="previews/2883779712.gif"><img src="thumbs/2883779712.webp" width="96" alt=""></a></td><td><strong>菲娜｜fina｜フェーナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2883779712</code></td><td align="right">1.0.0<br>20.2 MB</td></tr>
+<tr id="3288235525"><td><a href="previews/3288235525.gif"><img src="thumbs/3288235525.webp" width="96" alt=""></a></td><td><strong>萌绘(泳装)｜moe(swim)｜モエ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3288235525</code></td><td align="right">1.0.0<br>26.6 MB</td></tr>
+<tr id="2907704419"><td><a href="previews/2907704419.gif"><img src="thumbs/2907704419.webp" width="96" alt=""></a></td><td><strong>萌绘｜moe｜モエ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2907704419</code></td><td align="right">1.0.0<br>50.4 MB</td></tr>
+<tr id="3690702716"><td><a href="previews/3690702716.gif"><img src="thumbs/3690702716.webp" width="96" alt=""></a></td><td><strong>蕾娜｜rena｜レナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3690702716</code></td><td align="right">1.0.0<br>55.2 MB</td></tr>
+<tr id="3393171415"><td><a href="previews/3393171415.gif"><img src="thumbs/3393171415.webp" width="96" alt=""></a></td><td><strong>诺亚(睡衣)｜noa(pajama)｜ノア(パジャマ)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3393171415</code></td><td align="right">1.0.0<br>32.2 MB</td></tr>
 </table>
