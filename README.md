@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **263 张壁纸 · 9.0 GB** 压缩包。
+- **264 张壁纸 · 9.0 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -297,4 +297,5 @@
 <tr id="3059922203"><td><a href="previews/3059922203.gif"><img src="thumbs/3059922203.webp" width="96" alt=""></a></td><td><strong>食蜂操祈｜misaki｜ミサキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3059922203</code></td><td align="right">1.0.0<br>43.1 MB</td></tr>
 <tr id="2951025084"><td><a href="previews/2951025084.gif"><img src="thumbs/2951025084.webp" width="96" alt=""></a></td><td><strong>鹤城(泳装)｜tsurugi(swim)｜ツルギ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2951025084</code></td><td align="right">1.0.0<br>32.8 MB</td></tr>
 <tr id="2971249795"><td><a href="previews/2971249795.gif"><img src="thumbs/2971249795.webp" width="96" alt=""></a></td><td><strong>鹤城｜tsurugi｜ツルギ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2971249795</code></td><td align="right">1.0.0<br>28.4 MB</td></tr>
+<tr id="3555017015"><td><a href="previews/3555017015.gif"><img src="thumbs/3555017015.webp" width="96" alt=""></a></td><td><strong>鹿江｜kanoe｜カノエ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3555017015</code></td><td align="right">1.0.0<br>55.7 MB</td></tr>
 </table>

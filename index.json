@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:11:00Z",
+  "generatedAt": "2026-10-26T12:15:23Z",
   "repository": "https://github.com/Jailvisor/octocaris-community",
   "releaseTag": "wallpapers",
   "assetBaseUrl": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers",
-  "itemCount": 263,
+  "itemCount": 264,
   "items": [
     {
       "folder": "3533267510",
@@ -49801,6 +49801,202 @@
       },
       "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2971249795",
       "updatedAt": "2026-10-26T05:16:28Z"
+    },
+    {
+      "folder": "3555017015",
+      "name": "鹿江｜kanoe｜カノエ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/3555017015.gif?v=439067d4",
+        "bytes": 356887,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-3555017015-v1.0.0.zip",
+        "bytes": 58355275,
+        "sha256": "57e20c6274c141042dd81b61443f7d6d3822dece9fd523fb2c75f21f92675029"
+      },
+      "fileCount": 41,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 18538,
+          "path": "2k/CH0306_home.atlas"
+        },
+        {
+          "bytes": 2092074,
+          "path": "2k/CH0306_home.png"
+        },
+        {
+          "bytes": 705369,
+          "path": "2k/CH0306_home.skel"
+        },
+        {
+          "bytes": 888948,
+          "path": "2k/CH0306_home_2.png"
+        },
+        {
+          "bytes": 1774884,
+          "path": "2k/CH0306_home_3.png"
+        },
+        {
+          "bytes": 626986,
+          "path": "2k/CH0306_home_4.png"
+        },
+        {
+          "bytes": 19683,
+          "path": "4k/CH0306_home.atlas"
+        },
+        {
+          "bytes": 9276258,
+          "path": "4k/CH0306_home.png"
+        },
+        {
+          "bytes": 705369,
+          "path": "4k/CH0306_home.skel"
+        },
+        {
+          "bytes": 3629244,
+          "path": "4k/CH0306_home_2.png"
+        },
+        {
+          "bytes": 9106408,
+          "path": "4k/CH0306_home_3.png"
+        },
+        {
+          "bytes": 2823202,
+          "path": "4k/CH0306_home_4.png"
+        },
+        {
+          "bytes": 19683,
+          "path": "8k/CH0306_home.atlas"
+        },
+        {
+          "bytes": 9276258,
+          "path": "8k/CH0306_home.png"
+        },
+        {
+          "bytes": 705369,
+          "path": "8k/CH0306_home.skel"
+        },
+        {
+          "bytes": 3629244,
+          "path": "8k/CH0306_home_2.png"
+        },
+        {
+          "bytes": 9106408,
+          "path": "8k/CH0306_home_3.png"
+        },
+        {
+          "bytes": 2823202,
+          "path": "8k/CH0306_home_4.png"
+        },
+        {
+          "bytes": 592765,
+          "path": "BGM.wav"
+        },
+        {
+          "bytes": 58398,
+          "path": "CH0306_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 50959,
+          "path": "CH0306_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 48219,
+          "path": "CH0306_MemorialLobby_1_3.wav"
+        },
+        {
+          "bytes": 36373,
+          "path": "CH0306_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 35360,
+          "path": "CH0306_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 32326,
+          "path": "CH0306_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 24972,
+          "path": "CH0306_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 40290,
+          "path": "CH0306_MemorialLobby_4.wav"
+        },
+        {
+          "bytes": 46952,
+          "path": "CH0306_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 35172,
+          "path": "CH0306_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 51063,
+          "path": "CH0306_MemorialLobby_6_1.wav"
+        },
+        {
+          "bytes": 8781,
+          "path": "CH0306_MemorialLobby_6_2.wav"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97-DRYLDeN3.TTF"
+        },
+        {
+          "bytes": 924199,
+          "path": "assets/index-CQUR_vLf.js"
+        },
+        {
+          "bytes": 65272,
+          "path": "assets/index-CsDBtkr9.css"
+        },
+        {
+          "bytes": 477,
+          "path": "index.html"
+        },
+        {
+          "bytes": 5770,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 240933,
+          "path": "loading.webp"
+        },
+        {
+          "bytes": 253,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 719130,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 742,
+          "path": "project.json"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "3555017015",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3555017015"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#3555017015",
+      "updatedAt": "2026-10-26T05:16:33Z"
     }
   ]
 }
