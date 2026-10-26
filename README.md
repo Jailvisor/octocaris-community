@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **103 张壁纸 · 3.5 GB** 压缩包。
+- **123 张壁纸 · 4.3 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -136,5 +136,25 @@
 <tr id="3049122664"><td><a href="previews/3049122664.gif"><img src="thumbs/3049122664.webp" width="96" alt=""></a></td><td><strong>时雨(温泉)｜shigure(onsen)｜シグレ(温泉)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3049122664</code></td><td align="right">1.0.0<br>36.2 MB</td></tr>
 <tr id="2895546732"><td><a href="previews/2895546732.gif"><img src="thumbs/2895546732.webp" width="96" alt=""></a></td><td><strong>时雨｜shigure｜シグレ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2895546732</code></td><td align="right">1.0.0<br>46.4 MB</td></tr>
 <tr id="2937174799"><td><a href="previews/2937174799.gif"><img src="thumbs/2937174799.webp" width="96" alt=""></a></td><td><strong>时｜toki｜トキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2937174799</code></td><td align="right">1.0.0<br>57.8 MB</td></tr>
+<tr id="3174105118"><td><a href="previews/3174105118.gif"><img src="thumbs/3174105118.webp" width="96" alt=""></a></td><td><strong>明里(新年)｜akari(newyear)｜アカリ(新年)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3174105118</code></td><td align="right">1.0.0<br>39.8 MB</td></tr>
+<tr id="2913550725"><td><a href="previews/2913550725.gif"><img src="thumbs/2913550725.webp" width="96" alt=""></a></td><td><strong>明里｜akari｜アカリ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2913550725</code></td><td align="right">1.0.0<br>31.3 MB</td></tr>
+<tr id="3580207945"><td><a href="previews/3580207945.gif"><img src="thumbs/3580207945.webp" width="96" alt=""></a></td><td><strong>星野(中秋)｜hoshino(moon)｜ホシノ(十五夜)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3580207945</code></td><td align="right">1.0.0<br>26.0 MB</td></tr>
+<tr id="3295175004"><td><a href="previews/3295175004.gif"><img src="thumbs/3295175004.webp" width="96" alt=""></a></td><td><strong>星野(临战)｜hoshino(combat)｜ホシノ(｜Blue Archive</strong><br><span>Z_DK</span><br><code>3295175004</code></td><td align="right">1.0.0<br>39.5 MB</td></tr>
+<tr id="2899050055"><td><a href="previews/2899050055.gif"><img src="thumbs/2899050055.webp" width="96" alt=""></a></td><td><strong>星野(泳装)｜hoshino(swim)｜ホシノ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2899050055</code></td><td align="right">1.0.0<br>38.2 MB</td></tr>
+<tr id="2928835917"><td><a href="previews/2928835917.gif"><img src="thumbs/2928835917.webp" width="96" alt=""></a></td><td><strong>星野｜hoshino｜ホシノ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2928835917</code></td><td align="right">1.0.0<br>31.4 MB</td></tr>
+<tr id="2878333407"><td><a href="previews/2878333407.gif"><img src="thumbs/2878333407.webp" width="96" alt=""></a></td><td><strong>春香｜haruka｜ハルカ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2878333407</code></td><td align="right">1.0.0<br>18.3 MB</td></tr>
+<tr id="3607475099"><td><a href="previews/3607475099.gif"><img src="thumbs/3607475099.webp" width="96" alt=""></a></td><td><strong>昴｜subaru｜スバル｜Blue Archive</strong><br><span>Z_DK</span><br><code>3607475099</code></td><td align="right">1.0.0<br>58.1 MB</td></tr>
+<tr id="3124011775"><td><a href="previews/3124011775.gif"><img src="thumbs/3124011775.webp" width="96" alt=""></a></td><td><strong>晴(野营)｜hare(camp)｜ハレ(キャンプ)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3124011775</code></td><td align="right">1.0.0<br>27.0 MB</td></tr>
+<tr id="2908315739"><td><a href="previews/2908315739.gif"><img src="thumbs/2908315739.webp" width="96" alt=""></a></td><td><strong>晴奈(新年)｜haruna(newyear)｜ハルナ(正月)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2908315739</code></td><td align="right">1.0.0<br>65.1 MB</td></tr>
+<tr id="3036386381"><td><a href="previews/3036386381.gif"><img src="thumbs/3036386381.webp" width="96" alt=""></a></td><td><strong>晴奈(运动)｜haruna(sport)｜ハルナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3036386381</code></td><td align="right">1.0.0<br>25.5 MB</td></tr>
+<tr id="2914820273"><td><a href="previews/2914820273.gif"><img src="thumbs/2914820273.webp" width="96" alt=""></a></td><td><strong>晴奈｜haruna｜ハルナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2914820273</code></td><td align="right">1.0.0<br>19.8 MB</td></tr>
+<tr id="2953858901"><td><a href="previews/2953858901.gif"><img src="thumbs/2953858901.webp" width="96" alt=""></a></td><td><strong>晴｜hare｜ハレ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2953858901</code></td><td align="right">1.0.0<br>28.3 MB</td></tr>
+<tr id="3633387805"><td><a href="previews/3633387805.gif"><img src="thumbs/3633387805.webp" width="96" alt=""></a></td><td><strong>月咏(礼服)｜tsukuyo(dress)｜ツクヨ(ドレス)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3633387805</code></td><td align="right">1.0.0<br>44.0 MB</td></tr>
+<tr id="2942602232"><td><a href="previews/2942602232.gif"><img src="thumbs/2942602232.webp" width="96" alt=""></a></td><td><strong>月咏｜tsukuyo｜ツクヨ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2942602232</code></td><td align="right">1.0.0<br>28.6 MB</td></tr>
+<tr id="3471554132"><td><a href="previews/3471554132.gif"><img src="thumbs/3471554132.webp" width="96" alt=""></a></td><td><strong>望｜nozomi｜ノゾミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3471554132</code></td><td align="right">1.0.0<br>42.1 MB</td></tr>
+<tr id="3538671760"><td><a href="previews/3538671760.gif"><img src="thumbs/3538671760.webp" width="96" alt=""></a></td><td><strong>未花(泳装)｜mika(swim)｜ミカ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3538671760</code></td><td align="right">1.0.0<br>52.8 MB</td></tr>
+<tr id="2922877436"><td><a href="previews/2922877436.gif"><img src="thumbs/2922877436.webp" width="96" alt=""></a></td><td><strong>未花｜mika｜ミカ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2922877436</code></td><td align="right">1.0.0<br>53.4 MB</td></tr>
+<tr id="3436984219"><td><a href="previews/3436984219.gif"><img src="thumbs/3436984219.webp" width="96" alt=""></a></td><td><strong>朱莉(打工)｜juri(parttime)｜ジュリ(バイト)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3436984219</code></td><td align="right">1.0.0<br>20.7 MB</td></tr>
+<tr id="2910510590"><td><a href="previews/2910510590.gif"><img src="thumbs/2910510590.webp" width="96" alt=""></a></td><td><strong>朱莉｜juri｜ジュリ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2910510590</code></td><td align="right">1.0.0<br>71.8 MB</td></tr>
 <tr id="3481411508"><td><a href="previews/3481411508.gif"><img src="thumbs/3481411508.webp" width="96" alt=""></a></td><td><strong>菲娜(导游)｜pina(guide)｜ピナ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3481411508</code></td><td align="right">1.0.1<br>40.0 MB</td></tr>
 </table>
