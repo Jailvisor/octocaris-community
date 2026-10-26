@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **143 张壁纸 · 4.9 GB** 压缩包。
+- **163 张壁纸 · 5.5 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -176,5 +176,25 @@
 <tr id="2917835420"><td><a href="previews/2917835420.gif"><img src="thumbs/2917835420.webp" width="96" alt=""></a></td><td><strong>梓｜azusa｜アズサ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2917835420</code></td><td align="right">1.0.0<br>28.2 MB</td></tr>
 <tr id="3203894762"><td><a href="previews/3203894762.gif"><img src="thumbs/3203894762.webp" width="96" alt=""></a></td><td><strong>椿(向导)｜tsubaki(guide)｜ツバキ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3203894762</code></td><td align="right">1.0.0<br>30.5 MB</td></tr>
 <tr id="2942023867"><td><a href="previews/2942023867.gif"><img src="thumbs/2942023867.webp" width="96" alt=""></a></td><td><strong>椿｜tsubaki｜ツバキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2942023867</code></td><td align="right">1.0.0<br>31.0 MB</td></tr>
+<tr id="3356677195"><td><a href="previews/3356677195.gif"><img src="thumbs/3356677195.webp" width="96" alt=""></a></td><td><strong>樱子(偶像)｜sakurako(idol)｜サクラコ(アイドル)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3356677195</code></td><td align="right">1.0.0<br>28.5 MB</td></tr>
+<tr id="2931208423"><td><a href="previews/2931208423.gif"><img src="thumbs/2931208423.webp" width="96" alt=""></a></td><td><strong>樱子｜sakurako｜サクラコ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2931208423</code></td><td align="right">1.0.0<br>37.3 MB</td></tr>
+<tr id="2939819997"><td><a href="previews/2939819997.gif"><img src="thumbs/2939819997.webp" width="96" alt=""></a></td><td><strong>歌原(应援团)｜utaha_cheerleader｜ウタハ(応援団)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2939819997</code></td><td align="right">1.0.0<br>39.4 MB</td></tr>
+<tr id="2882492937"><td><a href="previews/2882492937.gif"><img src="thumbs/2882492937.webp" width="96" alt=""></a></td><td><strong>歌原｜utaha｜ウタハ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2882492937</code></td><td align="right">1.0.0<br>16.3 MB</td></tr>
+<tr id="2968780579"><td><a href="previews/2968780579.gif"><img src="thumbs/2968780579.webp" width="96" alt=""></a></td><td><strong>沙耶(私服)｜saya(casual)｜サヤ(私服)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2968780579</code></td><td align="right">1.0.0<br>28.2 MB</td></tr>
+<tr id="2967056373"><td><a href="previews/2967056373.gif"><img src="thumbs/2967056373.webp" width="96" alt=""></a></td><td><strong>沙耶｜saya｜サヤ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2967056373</code></td><td align="right">1.0.0<br>26.0 MB</td></tr>
+<tr id="2914112344"><td><a href="previews/2914112344.gif"><img src="thumbs/2914112344.webp" width="96" alt=""></a></td><td><strong>泉(泳装)｜izumi(swim)｜イズミ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2914112344</code></td><td align="right">1.0.0<br>28.5 MB</td></tr>
+<tr id="2901324404"><td><a href="previews/2901324404.gif"><img src="thumbs/2901324404.webp" width="96" alt=""></a></td><td><strong>泉奈(泳装)｜izuna(swim)｜イヅナ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2901324404</code></td><td align="right">1.0.0<br>34.5 MB</td></tr>
+<tr id="2944358252"><td><a href="previews/2944358252.gif"><img src="thumbs/2944358252.webp" width="96" alt=""></a></td><td><strong>泉奈｜izuna｜イヅナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2944358252</code></td><td align="right">1.0.0<br>21.8 MB</td></tr>
+<tr id="3202874767"><td><a href="previews/3202874767.gif"><img src="thumbs/3202874767.webp" width="96" alt=""></a></td><td><strong>海夏｜umika｜ウミカ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3202874767</code></td><td align="right">1.0.0<br>41.6 MB</td></tr>
+<tr id="2908323129"><td><a href="previews/2908323129.gif"><img src="thumbs/2908323129.webp" width="96" alt=""></a></td><td><strong>淳子(新年)｜junko(newyear)｜ジュンコ(正月)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2908323129</code></td><td align="right">1.0.0<br>38.4 MB</td></tr>
+<tr id="2915392598"><td><a href="previews/2915392598.gif"><img src="thumbs/2915392598.webp" width="96" alt=""></a></td><td><strong>淳子｜junko｜ジュンコ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2915392598</code></td><td align="right">1.0.0<br>26.0 MB</td></tr>
+<tr id="3537922338"><td><a href="previews/3537922338.gif"><img src="thumbs/3537922338.webp" width="96" alt=""></a></td><td><strong>渚(泳装)｜nagisa(swim)｜ナギサ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3537922338</code></td><td align="right">1.0.0<br>39.8 MB</td></tr>
+<tr id="2937194443"><td><a href="previews/2937194443.gif"><img src="thumbs/2937194443.webp" width="96" alt=""></a></td><td><strong>渚｜nagisa｜ナギサ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2937194443</code></td><td align="right">1.0.0<br>39.9 MB</td></tr>
+<tr id="3631041351"><td><a href="previews/3631041351.gif"><img src="thumbs/3631041351.webp" width="96" alt=""></a></td><td><strong>满(礼服)｜michiru(dress)｜ミチル(ドレス)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3631041351</code></td><td align="right">1.0.0<br>41.0 MB</td></tr>
+<tr id="3435069414"><td><a href="previews/3435069414.gif"><img src="thumbs/3435069414.webp" width="96" alt=""></a></td><td><strong>濑名(私服)｜sena(casual)｜セナ(私服)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3435069414</code></td><td align="right">1.0.0<br>23.6 MB</td></tr>
+<tr id="2966640316"><td><a href="previews/2966640316.gif"><img src="thumbs/2966640316.webp" width="96" alt=""></a></td><td><strong>濑奈｜sena｜セナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2966640316</code></td><td align="right">1.0.0<br>23.7 MB</td></tr>
+<tr id="2856293182"><td><a href="previews/2856293182.gif"><img src="thumbs/2856293182.webp" width="96" alt=""></a></td><td><strong>瀬奈｜sena｜セナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2856293182</code></td><td align="right">1.0.0<br>17.6 MB</td></tr>
+<tr id="3656573240"><td><a href="previews/3656573240.gif"><img src="thumbs/3656573240.webp" width="96" alt=""></a></td><td><strong>爱丽丝(临战)｜arisu(battle)｜アリス (臨戦)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3656573240</code></td><td align="right">1.0.0<br>58.4 MB</td></tr>
+<tr id="2967475325"><td><a href="previews/2967475325.gif"><img src="thumbs/2967475325.webp" width="96" alt=""></a></td><td><strong>爱丽丝(女仆)｜arisu(mind)｜アリス(メイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2967475325</code></td><td align="right">1.0.0<br>28.8 MB</td></tr>
 <tr id="3481411508"><td><a href="previews/3481411508.gif"><img src="thumbs/3481411508.webp" width="96" alt=""></a></td><td><strong>菲娜(导游)｜pina(guide)｜ピナ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3481411508</code></td><td align="right">1.0.1<br>40.0 MB</td></tr>
 </table>
