@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **203 张壁纸 · 7.0 GB** 压缩包。
+- **223 张壁纸 · 7.6 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -236,5 +236,25 @@
 <tr id="2951480479"><td><a href="previews/2951480479.gif"><img src="thumbs/2951480479.webp" width="96" alt=""></a></td><td><strong>绫音｜ayane｜アヤネ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2951480479</code></td><td align="right">1.0.0<br>24.2 MB</td></tr>
 <tr id="3242130716"><td><a href="previews/3242130716.gif"><img src="thumbs/3242130716.webp" width="96" alt=""></a></td><td><strong>绮良良｜kirara｜キララ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3242130716</code></td><td align="right">1.0.0<br>29.5 MB</td></tr>
 <tr id="3252727328"><td><a href="previews/3252727328.gif"><img src="thumbs/3252727328.webp" width="96" alt=""></a></td><td><strong>绿(女仆)｜midori(maid)｜ミドリ(メイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3252727328</code></td><td align="right">1.0.0<br>28.2 MB</td></tr>
+<tr id="2904287120"><td><a href="previews/2904287120.gif"><img src="thumbs/2904287120.webp" width="96" alt=""></a></td><td><strong>绿｜midori｜ミドリ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2904287120</code></td><td align="right">1.0.0<br>56.6 MB</td></tr>
+<tr id="3576473336"><td><a href="previews/3576473336.gif"><img src="thumbs/3576473336.webp" width="96" alt=""></a></td><td><strong>美代｜miyo｜ミヨ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3576473336</code></td><td align="right">1.0.0<br>41.2 MB</td></tr>
+<tr id="3562398230"><td><a href="previews/3562398230.gif"><img src="thumbs/3562398230.webp" width="96" alt=""></a></td><td><strong>美咲(泳装)｜misaki(swim)｜ミサキ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3562398230</code></td><td align="right">1.0.0<br>54.8 MB</td></tr>
+<tr id="2965602778"><td><a href="previews/2965602778.gif"><img src="thumbs/2965602778.webp" width="96" alt=""></a></td><td><strong>美咲｜misaki｜ミサキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2965602778</code></td><td align="right">1.0.0<br>23.6 MB</td></tr>
+<tr id="3354475158"><td><a href="previews/3354475158.gif"><img src="thumbs/3354475158.webp" width="96" alt=""></a></td><td><strong>美弥(偶像)｜mine(Idol)｜ミネ(アイドル)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3354475158</code></td><td align="right">1.0.0<br>23.9 MB</td></tr>
+<tr id="2916350201"><td><a href="previews/2916350201.gif"><img src="thumbs/2916350201.webp" width="96" alt=""></a></td><td><strong>美弥｜mine｜ミネ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2916350201</code></td><td align="right">1.0.0<br>48.9 MB</td></tr>
+<tr id="2992535604"><td><a href="previews/2992535604.gif"><img src="thumbs/2992535604.webp" width="96" alt=""></a></td><td><strong>美游(泳装)｜miyu(swim)｜ミユ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2992535604</code></td><td align="right">1.0.0<br>29.0 MB</td></tr>
+<tr id="2907116146"><td><a href="previews/2907116146.gif"><img src="thumbs/2907116146.webp" width="96" alt=""></a></td><td><strong>美游｜miyu｜ミユ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2907116146</code></td><td align="right">1.0.0<br>29.9 MB</td></tr>
+<tr id="3719519024"><td><a href="previews/3719519024.gif"><img src="thumbs/3719519024.webp" width="96" alt=""></a></td><td><strong>胡桃｜kurumi｜クルミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3719519024</code></td><td align="right">1.0.0<br>49.0 MB</td></tr>
+<tr id="3681785791"><td><a href="previews/3681785791.gif"><img src="thumbs/3681785791.webp" width="96" alt=""></a></td><td><strong>艾米(临战)｜eimi(battle)｜エイミ（リンセン）｜Blue Archive</strong><br><span>Z_DK</span><br><code>3681785791</code></td><td align="right">1.0.0<br>32.6 MB</td></tr>
+<tr id="3106758012"><td><a href="previews/3106758012.gif"><img src="thumbs/3106758012.webp" width="96" alt=""></a></td><td><strong>艾米(泳装)｜eimi(swim)｜エイミ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3106758012</code></td><td align="right">1.0.0<br>27.8 MB</td></tr>
+<tr id="2955858306"><td><a href="previews/2955858306.gif"><img src="thumbs/2955858306.webp" width="96" alt=""></a></td><td><strong>艾米｜eimi｜エイミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2955858306</code></td><td align="right">1.0.0<br>24.3 MB</td></tr>
+<tr id="2945877251"><td><a href="previews/2945877251.gif"><img src="thumbs/2945877251.webp" width="96" alt=""></a></td><td><strong>花凛(兔女郎)｜karin(bunny)｜カリン(バニーガール)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2945877251</code></td><td align="right">1.0.0<br>24.4 MB</td></tr>
+<tr id="3412956856"><td><a href="previews/3412956856.gif"><img src="thumbs/3412956856.webp" width="96" alt=""></a></td><td><strong>花凛(制服)｜karin(su)｜カリン(制服)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3412956856</code></td><td align="right">1.0.0<br>22.7 MB</td></tr>
+<tr id="2925325320"><td><a href="previews/2925325320.gif"><img src="thumbs/2925325320.webp" width="96" alt=""></a></td><td><strong>花凛｜karin｜カリン｜Blue Archive</strong><br><span>Z_DK</span><br><code>2925325320</code></td><td align="right">1.0.0<br>19.0 MB</td></tr>
+<tr id="3013771341"><td><a href="previews/3013771341.gif"><img src="thumbs/3013771341.webp" width="96" alt=""></a></td><td><strong>花子(泳装)｜hanako(swim)｜ハナコ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3013771341</code></td><td align="right">1.0.0<br>36.8 MB</td></tr>
+<tr id="2916807773"><td><a href="previews/2916807773.gif"><img src="thumbs/2916807773.webp" width="96" alt=""></a></td><td><strong>花子｜hanako｜ハナコ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2916807773</code></td><td align="right">1.0.0<br>30.6 MB</td></tr>
+<tr id="2901948139"><td><a href="previews/2901948139.gif"><img src="thumbs/2901948139.webp" width="96" alt=""></a></td><td><strong>花江(圣诞)｜hanae(xmas)｜ハナエ(クリスマス)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2901948139</code></td><td align="right">1.0.0<br>36.4 MB</td></tr>
+<tr id="2898286196"><td><a href="previews/2898286196.gif"><img src="thumbs/2898286196.webp" width="96" alt=""></a></td><td><strong>花江｜hanae｜ハナエ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2898286196</code></td><td align="right">1.0.0<br>26.2 MB</td></tr>
+<tr id="2901689763"><td><a href="previews/2901689763.gif"><img src="thumbs/2901689763.webp" width="96" alt=""></a></td><td><strong>芹娜(圣诞)｜serina(xmas)｜セリナ(クリスマス)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2901689763</code></td><td align="right">1.0.0<br>44.6 MB</td></tr>
 <tr id="3481411508"><td><a href="previews/3481411508.gif"><img src="thumbs/3481411508.webp" width="96" alt=""></a></td><td><strong>菲娜(导游)｜pina(guide)｜ピナ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3481411508</code></td><td align="right">1.0.1<br>40.0 MB</td></tr>
 </table>
