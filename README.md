@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **63 张壁纸 · 2.1 GB** 压缩包。
+- **83 张壁纸 · 2.8 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -95,6 +95,26 @@
 <tr id="3751459072"><td><a href="previews/3751459072.gif"><img src="thumbs/3751459072.webp" width="96" alt=""></a></td><td><strong>妃咲(泳装)｜kisaki(swim)｜キサキ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3751459072</code></td><td align="right">1.0.0<br>48.9 MB</td></tr>
 <tr id="3338064889"><td><a href="previews/3338064889.gif"><img src="thumbs/3338064889.webp" width="96" alt=""></a></td><td><strong>妃咲｜kisaki｜キサキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3338064889</code></td><td align="right">1.0.0<br>25.8 MB</td></tr>
 <tr id="3713570282"><td><a href="previews/3713570282.gif"><img src="thumbs/3713570282.webp" width="96" alt=""></a></td><td><strong>妮可｜niko｜ニコ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3713570282</code></td><td align="right">1.0.0<br>46.8 MB</td></tr>
+<tr id="3488102298"><td><a href="previews/3488102298.gif"><img src="thumbs/3488102298.webp" width="96" alt=""></a></td><td><strong>妮娅｜niya｜ニヤ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3488102298</code></td><td align="right">1.0.0<br>48.0 MB</td></tr>
+<tr id="3420255812"><td><a href="previews/3420255812.gif"><img src="thumbs/3420255812.webp" width="96" alt=""></a></td><td><strong>妮露(制服)｜neru(pajama)｜ネル(パジャマ)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3420255812</code></td><td align="right">1.0.0<br>27.9 MB</td></tr>
+<tr id="2927730341"><td><a href="previews/2927730341.gif"><img src="thumbs/2927730341.webp" width="96" alt=""></a></td><td><strong>妮露｜nero｜ネル｜Blue Archive</strong><br><span>Z_DK</span><br><code>2927730341</code></td><td align="right">1.0.0<br>72.0 MB</td></tr>
+<tr id="2986108192"><td><a href="previews/2986108192.gif"><img src="thumbs/2986108192.webp" width="96" alt=""></a></td><td><strong>实梨｜minori｜ミノリ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2986108192</code></td><td align="right">1.0.0<br>35.6 MB</td></tr>
+<tr id="2905551737"><td><a href="previews/2905551737.gif"><img src="thumbs/2905551737.webp" width="96" alt=""></a></td><td><strong>宫子｜miyako｜ミヤコ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2905551737</code></td><td align="right">1.0.0<br>33.4 MB</td></tr>
+<tr id="3009142191"><td><a href="previews/3009142191.gif"><img src="thumbs/3009142191.webp" width="96" alt=""></a></td><td><strong>小春(泳装)｜koharu(swim)｜コハル(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3009142191</code></td><td align="right">1.0.0<br>47.3 MB</td></tr>
+<tr id="2915862034"><td><a href="previews/2915862034.gif"><img src="thumbs/2915862034.webp" width="96" alt=""></a></td><td><strong>小春｜koharu｜コハル｜Blue Archive</strong><br><span>Z_DK</span><br><code>2915862034</code></td><td align="right">1.0.0<br>28.1 MB</td></tr>
 <tr id="3253308696"><td><a href="previews/3253308696.gif"><img src="thumbs/3253308696.webp" width="96" alt=""></a></td><td><strong>小桃(女仆)｜momoi(maid)｜モモイ(メイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3253308696</code></td><td align="right">1.0.0<br>30.9 MB</td></tr>
+<tr id="3127474819"><td><a href="previews/3127474819.gif"><img src="thumbs/3127474819.webp" width="96" alt=""></a></td><td><strong>小玉(野营)｜kotama(camp)｜コタマ(キャンプ)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3127474819</code></td><td align="right">1.0.0<br>34.8 MB</td></tr>
+<tr id="2883368537"><td><a href="previews/2883368537.gif"><img src="thumbs/2883368537.webp" width="96" alt=""></a></td><td><strong>小玉｜kotama｜コタマ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2883368537</code></td><td align="right">1.0.0<br>15.5 MB</td></tr>
+<tr id="3681227087"><td><a href="previews/3681227087.gif"><img src="thumbs/3681227087.webp" width="96" alt=""></a></td><td><strong>小雪(睡衣)｜koyuki(pajama)｜コユキ(パジャマ)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3681227087</code></td><td align="right">1.0.0<br>53.9 MB</td></tr>
+<tr id="2943975299"><td><a href="previews/2943975299.gif"><img src="thumbs/2943975299.webp" width="96" alt=""></a></td><td><strong>小雪｜koyuki｜コユキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2943975299</code></td><td align="right">1.0.0<br>15.5 MB</td></tr>
+<tr id="2944805052"><td><a href="previews/2944805052.gif"><img src="thumbs/2944805052.webp" width="96" alt=""></a></td><td><strong>尼禄(兔女郎)｜neru(bunny)｜ネル(バニーガール)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2944805052</code></td><td align="right">1.0.0<br>23.9 MB</td></tr>
+<tr id="3318688533"><td><a href="previews/3318688533.gif"><img src="thumbs/3318688533.webp" width="96" alt=""></a></td><td><strong>巴(旗袍)｜tomoe(qipao)｜トモエ(チーパオ)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3318688533</code></td><td align="right">1.0.0<br>32.0 MB</td></tr>
+<tr id="2979265044"><td><a href="previews/2979265044.gif"><img src="thumbs/2979265044.webp" width="96" alt=""></a></td><td><strong>巴｜tomoe｜トモエ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2979265044</code></td><td align="right">1.0.0<br>26.7 MB</td></tr>
+<tr id="2926344498"><td><a href="previews/2926344498.gif"><img src="thumbs/2926344498.webp" width="96" alt=""></a></td><td><strong>康娜｜kanna｜カンナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2926344498</code></td><td align="right">1.0.0<br>32.7 MB</td></tr>
+<tr id="3277091208"><td><a href="previews/3277091208.gif"><img src="thumbs/3277091208.webp" width="96" alt=""></a></td><td><strong>康纳(泳装)｜kanna(swim)｜カンナ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3277091208</code></td><td align="right">1.0.0<br>34.4 MB</td></tr>
+<tr id="3595183512"><td><a href="previews/3595183512.gif"><img src="thumbs/3595183512.webp" width="96" alt=""></a></td><td><strong>律｜ritsu｜リツ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3595183512</code></td><td align="right">1.0.0<br>57.3 MB</td></tr>
+<tr id="3059909046"><td><a href="previews/3059909046.gif"><img src="thumbs/3059909046.webp" width="96" alt=""></a></td><td><strong>御坂美琴｜mikoto｜ミコト｜Blue Archive</strong><br><span>Z_DK</span><br><code>3059909046</code></td><td align="right">1.0.0<br>27.0 MB</td></tr>
+<tr id="3706666315"><td><a href="previews/3706666315.gif"><img src="thumbs/3706666315.webp" width="96" alt=""></a></td><td><strong>心华｜konoka｜コノカ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3706666315</code></td><td align="right">1.0.0<br>45.3 MB</td></tr>
+<tr id="2904675331"><td><a href="previews/2904675331.gif"><img src="thumbs/2904675331.webp" width="96" alt=""></a></td><td><strong>心奈｜kokona｜ココナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2904675331</code></td><td align="right">1.0.0<br>29.2 MB</td></tr>
 <tr id="3481411508"><td><a href="previews/3481411508.gif"><img src="thumbs/3481411508.webp" width="96" alt=""></a></td><td><strong>菲娜(导游)｜pina(guide)｜ピナ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3481411508</code></td><td align="right">1.0.1<br>40.0 MB</td></tr>
 </table>
