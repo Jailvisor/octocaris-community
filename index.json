@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T07:23:10Z",
+  "generatedAt": "2026-10-26T07:43:23Z",
   "repository": "https://github.com/Jailvisor/octocaris-community",
   "releaseTag": "wallpapers",
   "assetBaseUrl": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers",
-  "itemCount": 83,
+  "itemCount": 103,
   "items": [
     {
       "folder": "3533267510",
@@ -15445,6 +15445,3930 @@
       },
       "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2904675331",
       "updatedAt": "2026-10-26T04:16:47Z"
+    },
+    {
+      "folder": "2879360339",
+      "name": "志美子｜shimiko｜シミコ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2879360339.gif?v=efb82538",
+        "bytes": 405632,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2879360339-v1.0.0.zip",
+        "bytes": 20582869,
+        "sha256": "1263055f6f8fb1a7bb493cddc599090f521f14c14ebb854bb174dbe41d3d87ac"
+      },
+      "fileCount": 15,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 23518,
+          "path": "Sound/Shiroko_MemorialLobby_1.wav"
+        },
+        {
+          "bytes": 35941,
+          "path": "Sound/Shiroko_MemorialLobby_2.wav"
+        },
+        {
+          "bytes": 32739,
+          "path": "Sound/Shiroko_MemorialLobby_3.wav"
+        },
+        {
+          "bytes": 29022,
+          "path": "Sound/Shiroko_MemorialLobby_4.wav"
+        },
+        {
+          "bytes": 20852,
+          "path": "Sound/Shiroko_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 21667,
+          "path": "Sound/Shiroko_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 1367856,
+          "path": "Sound/Theme.wav"
+        },
+        {
+          "bytes": 12903080,
+          "path": "index.html"
+        },
+        {
+          "bytes": 258,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 871221,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 3445,
+          "path": "project.json"
+        },
+        {
+          "bytes": 9135777,
+          "path": "pv.webm"
+        },
+        {
+          "bytes": 1639,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 28000,
+          "path": "spine-player.css"
+        },
+        {
+          "bytes": 475015,
+          "path": "spine-player.js"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2879360339",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2879360339"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2879360339",
+      "updatedAt": "2026-10-26T04:16:50Z"
+    },
+    {
+      "folder": "3009152873",
+      "name": "忧(泳装)｜ui(swim)｜ウイ(水着)｜Blue Archive",
+      "author": "Z_DK",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/3009152873.gif?v=8b52ff26",
+        "bytes": 296289,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-3009152873-v1.0.0.zip",
+        "bytes": 45339233,
+        "sha256": "a0d6bdc51d7070be86978e093d9822d5527ed674925a123509e7c0ce495c4a97"
+      },
+      "fileCount": 45,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 31132,
+          "path": "2k/CH0204_home.atlas"
+        },
+        {
+          "bytes": 2488684,
+          "path": "2k/CH0204_home.png"
+        },
+        {
+          "bytes": 958893,
+          "path": "2k/CH0204_home.skel"
+        },
+        {
+          "bytes": 706555,
+          "path": "2k/CH0204_home2.png"
+        },
+        {
+          "bytes": 2490306,
+          "path": "2k/CH0204_home3.png"
+        },
+        {
+          "bytes": 30586,
+          "path": "4k/CH0204_home.atlas"
+        },
+        {
+          "bytes": 2746888,
+          "path": "4k/CH0204_home.png"
+        },
+        {
+          "bytes": 958893,
+          "path": "4k/CH0204_home.skel"
+        },
+        {
+          "bytes": 611820,
+          "path": "4k/CH0204_home2.png"
+        },
+        {
+          "bytes": 2799054,
+          "path": "4k/CH0204_home3.png"
+        },
+        {
+          "bytes": 31202,
+          "path": "8k/CH0204_home.atlas"
+        },
+        {
+          "bytes": 6817686,
+          "path": "8k/CH0204_home.png"
+        },
+        {
+          "bytes": 958893,
+          "path": "8k/CH0204_home.skel"
+        },
+        {
+          "bytes": 1387676,
+          "path": "8k/CH0204_home2.png"
+        },
+        {
+          "bytes": 7271370,
+          "path": "8k/CH0204_home3.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 542,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 266,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 642227,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 690,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 3606,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 47490,
+          "path": "sound/CH0204_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 47067,
+          "path": "sound/CH0204_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 60130,
+          "path": "sound/CH0204_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 65917,
+          "path": "sound/CH0204_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 41693,
+          "path": "sound/CH0204_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 56183,
+          "path": "sound/CH0204_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 62195,
+          "path": "sound/CH0204_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 50841,
+          "path": "sound/CH0204_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 63912,
+          "path": "sound/CH0204_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 28213,
+          "path": "sound/CH0204_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 1612178,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 15,
+          "path": "sound/wav.bat"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 6011137,
+          "path": "ui.zip"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "3009152873",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3009152873"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#3009152873",
+      "updatedAt": "2026-10-26T04:16:55Z"
+    },
+    {
+      "folder": "2952764219",
+      "name": "忧｜ui｜ウイ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "I am looking for a solution for 8K, not available for now\n8k效果不行,加载也久,正在找新的办法,暂时不提供8K了",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2952764219.gif?v=c02d3060",
+        "bytes": 351648,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2952764219-v1.0.0.zip",
+        "bytes": 29680723,
+        "sha256": "21ef543d503e78a8ec500e12ecd577d9d373e78cf4812de96b94479d194ed34b"
+      },
+      "fileCount": 39,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 23319,
+          "path": "2k/CH0169_home.atlas"
+        },
+        {
+          "bytes": 1033308,
+          "path": "2k/CH0169_home.png"
+        },
+        {
+          "bytes": 547588,
+          "path": "2k/CH0169_home.skel"
+        },
+        {
+          "bytes": 678106,
+          "path": "2k/CH0169_home2.png"
+        },
+        {
+          "bytes": 22948,
+          "path": "4k/CH0169_home.atlas"
+        },
+        {
+          "bytes": 2847394,
+          "path": "4k/CH0169_home.png"
+        },
+        {
+          "bytes": 547588,
+          "path": "4k/CH0169_home.skel"
+        },
+        {
+          "bytes": 1705140,
+          "path": "4k/CH0169_home2.png"
+        },
+        {
+          "bytes": 23510,
+          "path": "8k/CH0169_home.atlas"
+        },
+        {
+          "bytes": 7213310,
+          "path": "8k/CH0169_home.png"
+        },
+        {
+          "bytes": 547588,
+          "path": "8k/CH0169_home.skel"
+        },
+        {
+          "bytes": 4629780,
+          "path": "8k/CH0169_home2.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 548,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 373,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 891940,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 799,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 5188,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 64496,
+          "path": "sound/CH0169_MemorialLobby_1.wav"
+        },
+        {
+          "bytes": 62729,
+          "path": "sound/CH0169_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 56638,
+          "path": "sound/CH0169_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 61236,
+          "path": "sound/CH0169_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 44962,
+          "path": "sound/CH0169_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 45297,
+          "path": "sound/CH0169_MemorialLobby_4.wav"
+        },
+        {
+          "bytes": 85462,
+          "path": "sound/CH0169_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 78828,
+          "path": "sound/CH0169_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 1062807,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 15,
+          "path": "sound/wav.bat"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2952764219",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2952764219"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2952764219",
+      "updatedAt": "2026-10-26T04:16:59Z"
+    },
+    {
+      "folder": "2926793386",
+      "name": "惠｜megu｜メグ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "I am looking for a solution for 8K, not available for now\n8k效果不行,加载也久,正在找新的办法,暂时不提供8K了",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2926793386.gif?v=306ef515",
+        "bytes": 325283,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2926793386-v1.0.0.zip",
+        "bytes": 57531737,
+        "sha256": "567b7ce431ddbdcef4cf04de823ff29a8499a35f8681b287df40fad2ca626026"
+      },
+      "fileCount": 38,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 37940,
+          "path": "2k/CH0088_home.atlas"
+        },
+        {
+          "bytes": 2844590,
+          "path": "2k/CH0088_home.png"
+        },
+        {
+          "bytes": 1958518,
+          "path": "2k/CH0088_home.skel"
+        },
+        {
+          "bytes": 249111,
+          "path": "2k/CH0088_home2.png"
+        },
+        {
+          "bytes": 2510379,
+          "path": "2k/CH0088_home3.png"
+        },
+        {
+          "bytes": 37083,
+          "path": "4k/CH0088_home.atlas"
+        },
+        {
+          "bytes": 21204295,
+          "path": "4k/CH0088_home.png"
+        },
+        {
+          "bytes": 1958518,
+          "path": "4k/CH0088_home.skel"
+        },
+        {
+          "bytes": 1923596,
+          "path": "4k/CH0088_home2.png"
+        },
+        {
+          "bytes": 17178706,
+          "path": "4k/CH0088_home3.png"
+        },
+        {
+          "bytes": 39774,
+          "path": "Sound/CH0088_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 30837,
+          "path": "Sound/CH0088_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 44545,
+          "path": "Sound/CH0088_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 46937,
+          "path": "Sound/CH0088_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 28397,
+          "path": "Sound/CH0088_MemorialLobby_3.wav"
+        },
+        {
+          "bytes": 58724,
+          "path": "Sound/CH0088_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 37077,
+          "path": "Sound/CH0088_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 35891,
+          "path": "Sound/CH0088_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 28965,
+          "path": "Sound/CH0088_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 1176672,
+          "path": "Sound/Theme.wav"
+        },
+        {
+          "bytes": 15,
+          "path": "Sound/wav.bat"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62422,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1104427,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 236610,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 535,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 375,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 869680,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 801,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 467925,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 5143,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2926793386",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2926793386"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2926793386",
+      "updatedAt": "2026-10-26T04:17:04Z"
+    },
+    {
+      "folder": "3009146387",
+      "name": "日向(泳装)｜hinata(swim)｜ヒナタ(水着)｜Blue Archive",
+      "author": "Z_DK",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/3009146387.gif?v=b178698b",
+        "bytes": 343484,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-3009146387-v1.0.0.zip",
+        "bytes": 45896554,
+        "sha256": "4301ba27810625f39318150bfdb7648a10a7a892095dad2830b9b519cb9f8851"
+      },
+      "fileCount": 45,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 30572,
+          "path": "2k/CH0210_home.atlas"
+        },
+        {
+          "bytes": 3075059,
+          "path": "2k/CH0210_home.png"
+        },
+        {
+          "bytes": 1972882,
+          "path": "2k/CH0210_home.skel"
+        },
+        {
+          "bytes": 2781244,
+          "path": "2k/CH0210_home2.png"
+        },
+        {
+          "bytes": 807779,
+          "path": "2k/CH0210_home3.png"
+        },
+        {
+          "bytes": 29918,
+          "path": "4k/CH0210_home.atlas"
+        },
+        {
+          "bytes": 3565536,
+          "path": "4k/CH0210_home.png"
+        },
+        {
+          "bytes": 1972882,
+          "path": "4k/CH0210_home.skel"
+        },
+        {
+          "bytes": 3056618,
+          "path": "4k/CH0210_home2.png"
+        },
+        {
+          "bytes": 939116,
+          "path": "4k/CH0210_home3.png"
+        },
+        {
+          "bytes": 30336,
+          "path": "8k/CH0210_home.atlas"
+        },
+        {
+          "bytes": 9174206,
+          "path": "8k/CH0210_home.png"
+        },
+        {
+          "bytes": 1972882,
+          "path": "8k/CH0210_home.skel"
+        },
+        {
+          "bytes": 7821268,
+          "path": "8k/CH0210_home2.png"
+        },
+        {
+          "bytes": 2609874,
+          "path": "8k/CH0210_home3.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 542,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 276,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 626110,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 700,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 4291,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 25225,
+          "path": "sound/CH0210_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 37362,
+          "path": "sound/CH0210_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 53587,
+          "path": "sound/CH0210_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 44641,
+          "path": "sound/CH0210_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 54725,
+          "path": "sound/CH0210_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 32681,
+          "path": "sound/CH0210_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 47537,
+          "path": "sound/CH0210_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 28596,
+          "path": "sound/CH0210_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 51014,
+          "path": "sound/CH0210_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 28135,
+          "path": "sound/CH0210_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 43520,
+          "path": "sound/CH0210_MemorialLobby_5_3.wav"
+        },
+        {
+          "bytes": 1447941,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 15,
+          "path": "sound/wav.bat"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "3009146387",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3009146387"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#3009146387",
+      "updatedAt": "2026-10-26T04:17:09Z"
+    },
+    {
+      "folder": "2932905700",
+      "name": "日向｜hinata｜ヒナタ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "I am looking for a solution for 8K, not available for now\n8k效果不行,加载也久,正在找新的办法,暂时不提供8K了",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2932905700.gif?v=3af07c46",
+        "bytes": 340488,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2932905700-v1.0.0.zip",
+        "bytes": 32630263,
+        "sha256": "2f365790f290ffdfd6d88c21f3b0a44cef613193267aab07ca526cca59845dc8"
+      },
+      "fileCount": 41,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 15902,
+          "path": "2k/Hinata_home.atlas"
+        },
+        {
+          "bytes": 2216010,
+          "path": "2k/Hinata_home.png"
+        },
+        {
+          "bytes": 792704,
+          "path": "2k/Hinata_home.skel"
+        },
+        {
+          "bytes": 2327524,
+          "path": "2k/Hinata_home2.png"
+        },
+        {
+          "bytes": 15592,
+          "path": "4k/Hinata_home.atlas"
+        },
+        {
+          "bytes": 2574026,
+          "path": "4k/Hinata_home.png"
+        },
+        {
+          "bytes": 792704,
+          "path": "4k/Hinata_home.skel"
+        },
+        {
+          "bytes": 1690404,
+          "path": "4k/Hinata_home2.png"
+        },
+        {
+          "bytes": 15810,
+          "path": "8k/Hinata_home.atlas"
+        },
+        {
+          "bytes": 6389428,
+          "path": "8k/Hinata_home.png"
+        },
+        {
+          "bytes": 792704,
+          "path": "8k/Hinata_home.skel"
+        },
+        {
+          "bytes": 5851224,
+          "path": "8k/Hinata_home2.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 1104643,
+          "path": "assets/index.4f50f2d2.js"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 62422,
+          "path": "assets/index.f81463c9.css"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 574,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 383,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 706308,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 809,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 3726,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 37926,
+          "path": "sound/Hinata_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 35320,
+          "path": "sound/Hinata_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 32011,
+          "path": "sound/Hinata_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 41785,
+          "path": "sound/Hinata_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 42399,
+          "path": "sound/Hinata_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 59152,
+          "path": "sound/Hinata_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 34716,
+          "path": "sound/Hinata_MemorialLobby_4.wav"
+        },
+        {
+          "bytes": 27791,
+          "path": "sound/Hinata_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 29539,
+          "path": "sound/Hinata_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 1099223,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2932905700",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2932905700"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2932905700",
+      "updatedAt": "2026-10-26T04:17:14Z"
+    },
+    {
+      "folder": "3299095793",
+      "name": "日和(泳装)｜hiyori(swim)｜ヒヨリ(水着)｜Blue Archive",
+      "author": "Z_DK",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/3299095793.gif?v=8f6ddbde",
+        "bytes": 282766,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-3299095793-v1.0.0.zip",
+        "bytes": 42040783,
+        "sha256": "d5c7d76cb9bad0950ff92ea39ee01043bf317452e015a67f9d6e0fcfbdf1c556"
+      },
+      "fileCount": 41,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 25230,
+          "path": "2k/CH0269_home.atlas"
+        },
+        {
+          "bytes": 2795152,
+          "path": "2k/CH0269_home.png"
+        },
+        {
+          "bytes": 643711,
+          "path": "2k/CH0269_home.skel"
+        },
+        {
+          "bytes": 3632735,
+          "path": "2k/CH0269_home2.png"
+        },
+        {
+          "bytes": 1365646,
+          "path": "2k/CH0269_home3.png"
+        },
+        {
+          "bytes": 24813,
+          "path": "4k/CH0269_home.atlas"
+        },
+        {
+          "bytes": 3404394,
+          "path": "4k/CH0269_home.png"
+        },
+        {
+          "bytes": 643711,
+          "path": "4k/CH0269_home.skel"
+        },
+        {
+          "bytes": 2404450,
+          "path": "4k/CH0269_home2.png"
+        },
+        {
+          "bytes": 623416,
+          "path": "4k/CH0269_home3.png"
+        },
+        {
+          "bytes": 25400,
+          "path": "8k/CH0269_home.atlas"
+        },
+        {
+          "bytes": 9249058,
+          "path": "8k/CH0269_home.png"
+        },
+        {
+          "bytes": 643711,
+          "path": "8k/CH0269_home.skel"
+        },
+        {
+          "bytes": 6531898,
+          "path": "8k/CH0269_home2.png"
+        },
+        {
+          "bytes": 1749992,
+          "path": "8k/CH0269_home3.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106519,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 532,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 276,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 632658,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 701,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 5282,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 40462,
+          "path": "sound/CH0269_MemorialLobby_1.wav"
+        },
+        {
+          "bytes": 28289,
+          "path": "sound/CH0269_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 75774,
+          "path": "sound/CH0269_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 65177,
+          "path": "sound/CH0269_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 75118,
+          "path": "sound/CH0269_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 51988,
+          "path": "sound/CH0269_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 36471,
+          "path": "sound/CH0269_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 61006,
+          "path": "sound/CH0269_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 41909,
+          "path": "sound/CH0269_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 1443913,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "3299095793",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3299095793"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#3299095793",
+      "updatedAt": "2026-10-26T04:17:19Z"
+    },
+    {
+      "folder": "2958393849",
+      "name": "日和｜hiyori｜ヒヨリ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "I am looking for a solution for 8K, not available for now\n8k效果不行,加载也久,正在找新的办法,暂时不提供8K了",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2958393849.gif?v=d9eaccbd",
+        "bytes": 272457,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2958393849-v1.0.0.zip",
+        "bytes": 31210190,
+        "sha256": "7c8197995f26993344fd33f9dd52f51115846d0f7bf36ab73244bfd1ecb53562"
+      },
+      "fileCount": 42,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 20610,
+          "path": "2k/Hiyori_home.atlas"
+        },
+        {
+          "bytes": 1168102,
+          "path": "2k/Hiyori_home.png"
+        },
+        {
+          "bytes": 902881,
+          "path": "2k/Hiyori_home.skel"
+        },
+        {
+          "bytes": 565794,
+          "path": "2k/Hiyori_home2.png"
+        },
+        {
+          "bytes": 20328,
+          "path": "4k/Hiyori_home.atlas"
+        },
+        {
+          "bytes": 3043336,
+          "path": "4k/Hiyori_home.png"
+        },
+        {
+          "bytes": 902881,
+          "path": "4k/Hiyori_home.skel"
+        },
+        {
+          "bytes": 1497586,
+          "path": "4k/Hiyori_home2.png"
+        },
+        {
+          "bytes": 20760,
+          "path": "8k/Hiyori_home.atlas"
+        },
+        {
+          "bytes": 7941098,
+          "path": "8k/Hiyori_home.png"
+        },
+        {
+          "bytes": 902881,
+          "path": "8k/Hiyori_home.skel"
+        },
+        {
+          "bytes": 5143104,
+          "path": "8k/Hiyori_home2.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 552,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 383,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 832840,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 809,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 6095,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 38870,
+          "path": "sound/Hiyori_MemorialLobby_1.wav"
+        },
+        {
+          "bytes": 45292,
+          "path": "sound/Hiyori_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 43030,
+          "path": "sound/Hiyori_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 39048,
+          "path": "sound/Hiyori_MemorialLobby_2_3.wav"
+        },
+        {
+          "bytes": 42729,
+          "path": "sound/Hiyori_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 44465,
+          "path": "sound/Hiyori_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 67218,
+          "path": "sound/Hiyori_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 23062,
+          "path": "sound/Hiyori_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 49450,
+          "path": "sound/Hiyori_MemorialLobby_4_3.wav"
+        },
+        {
+          "bytes": 38269,
+          "path": "sound/Hiyori_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 51675,
+          "path": "sound/Hiyori_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 1447941,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 15,
+          "path": "sound/wav.bat"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2958393849",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2958393849"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2958393849",
+      "updatedAt": "2026-10-26T04:17:23Z"
+    },
+    {
+      "folder": "2895926515",
+      "name": "日奈(泳装)｜hina(swim)｜ヒナ(水着)｜Blue Archive",
+      "author": "Z_DK",
+      "description": "For settings, please move your mouse to the top right corner",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2895926515.gif?v=71ffe9b9",
+        "bytes": 349032,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2895926515-v1.0.0.zip",
+        "bytes": 22782590,
+        "sha256": "d5d6b6b12a93d75ce09080adb71eed913493f679e40692de85aa416439ed2d1f"
+      },
+      "fileCount": 42,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 20643,
+          "path": "2k/CH0063_home.atlas"
+        },
+        {
+          "bytes": 775052,
+          "path": "2k/CH0063_home.png"
+        },
+        {
+          "bytes": 720172,
+          "path": "2k/CH0063_home.skel"
+        },
+        {
+          "bytes": 441728,
+          "path": "2k/CH0063_home2.png"
+        },
+        {
+          "bytes": 20141,
+          "path": "4k/CH0063_home.atlas"
+        },
+        {
+          "bytes": 1845184,
+          "path": "4k/CH0063_home.png"
+        },
+        {
+          "bytes": 720172,
+          "path": "4k/CH0063_home.skel"
+        },
+        {
+          "bytes": 1084548,
+          "path": "4k/CH0063_home2.png"
+        },
+        {
+          "bytes": 20453,
+          "path": "8k/CH0063_home.atlas"
+        },
+        {
+          "bytes": 4593162,
+          "path": "8k/CH0063_home.png"
+        },
+        {
+          "bytes": 720172,
+          "path": "8k/CH0063_home.skel"
+        },
+        {
+          "bytes": 2776418,
+          "path": "8k/CH0063_home2.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 1096429,
+          "path": "assets/index.5c144cfe.js"
+        },
+        {
+          "bytes": 61133,
+          "path": "assets/index.79229c5e.css"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 237419,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 548,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 331,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 792401,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 757,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 467925,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 6007,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 49055,
+          "path": "sound/CH0063_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 42472,
+          "path": "sound/CH0063_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 45379,
+          "path": "sound/CH0063_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 22253,
+          "path": "sound/CH0063_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 43128,
+          "path": "sound/CH0063_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 43618,
+          "path": "sound/CH0063_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 56954,
+          "path": "sound/CH0063_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 26619,
+          "path": "sound/CH0063_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 40943,
+          "path": "sound/CH0063_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 52659,
+          "path": "sound/CH0063_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 887171,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2895926515",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2895926515"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2895926515",
+      "updatedAt": "2026-10-26T04:17:26Z"
+    },
+    {
+      "folder": "3151026040",
+      "name": "日奈(礼服)｜hina(dress)｜ヒナ(ドレス)｜Blue Archive",
+      "author": "Z_DK",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/3151026040.gif?v=0cfe81c1",
+        "bytes": 294486,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-3151026040-v1.0.0.zip",
+        "bytes": 46632004,
+        "sha256": "9beb661d482d512387845922c7f7250a836b195d625c693e58d6c030c2ad74b5"
+      },
+      "fileCount": 45,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 32281,
+          "path": "2k/CH0230_home.atlas"
+        },
+        {
+          "bytes": 1767894,
+          "path": "2k/CH0230_home.png"
+        },
+        {
+          "bytes": 1128141,
+          "path": "2k/CH0230_home.skel"
+        },
+        {
+          "bytes": 1205446,
+          "path": "2k/CH0230_home2.png"
+        },
+        {
+          "bytes": 1429525,
+          "path": "2k/CH0230_home3.png"
+        },
+        {
+          "bytes": 2097733,
+          "path": "2k/CH0230_home4.png"
+        },
+        {
+          "bytes": 31610,
+          "path": "4k/CH0230_home.atlas"
+        },
+        {
+          "bytes": 2124496,
+          "path": "4k/CH0230_home.png"
+        },
+        {
+          "bytes": 1128141,
+          "path": "4k/CH0230_home.skel"
+        },
+        {
+          "bytes": 1216170,
+          "path": "4k/CH0230_home2.png"
+        },
+        {
+          "bytes": 1697724,
+          "path": "4k/CH0230_home3.png"
+        },
+        {
+          "bytes": 1518774,
+          "path": "4k/CH0230_home4.png"
+        },
+        {
+          "bytes": 32011,
+          "path": "8k/CH0230_home.atlas"
+        },
+        {
+          "bytes": 5549604,
+          "path": "8k/CH0230_home.png"
+        },
+        {
+          "bytes": 1128141,
+          "path": "8k/CH0230_home.skel"
+        },
+        {
+          "bytes": 3237218,
+          "path": "8k/CH0230_home2.png"
+        },
+        {
+          "bytes": 4350146,
+          "path": "8k/CH0230_home3.png"
+        },
+        {
+          "bytes": 3900394,
+          "path": "8k/CH0230_home4.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106519,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 542,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 275,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 609486,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 753,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 4450,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 33453,
+          "path": "sound/CH0230_MemorialLobby_1.wav"
+        },
+        {
+          "bytes": 52175,
+          "path": "sound/CH0230_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 60485,
+          "path": "sound/CH0230_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 51586,
+          "path": "sound/CH0230_MemorialLobby_2_3.wav"
+        },
+        {
+          "bytes": 38391,
+          "path": "sound/CH0230_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 37428,
+          "path": "sound/CH0230_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 24999,
+          "path": "sound/CH0230_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 32310,
+          "path": "sound/CH0230_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 29231,
+          "path": "sound/CH0230_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 29007,
+          "path": "sound/CH0230_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 7753607,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "3151026040",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3151026040"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#3151026040",
+      "updatedAt": "2026-10-26T04:17:31Z"
+    },
+    {
+      "folder": "2911234797",
+      "name": "日奈｜hina｜ヒナ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "I am looking for a solution for 8K, not available for now\n8k效果不行,加载也久,正在找新的办法,暂时不提供8K了",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2911234797.gif?v=f2d7555d",
+        "bytes": 308658,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2911234797-v1.0.0.zip",
+        "bytes": 25863092,
+        "sha256": "d842ae39970bc09b778d92e6966f181a00318833c4eaac63372ab70932fc7b21"
+      },
+      "fileCount": 43,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 14763,
+          "path": "2k/Hina_home.atlas"
+        },
+        {
+          "bytes": 890042,
+          "path": "2k/Hina_home.png"
+        },
+        {
+          "bytes": 295978,
+          "path": "2k/Hina_home.skel"
+        },
+        {
+          "bytes": 534864,
+          "path": "2k/Hina_home2.png"
+        },
+        {
+          "bytes": 47766,
+          "path": "2k/Hina_home3.png"
+        },
+        {
+          "bytes": 14456,
+          "path": "4k/Hina_home.atlas"
+        },
+        {
+          "bytes": 2312974,
+          "path": "4k/Hina_home.png"
+        },
+        {
+          "bytes": 295978,
+          "path": "4k/Hina_home.skel"
+        },
+        {
+          "bytes": 1332270,
+          "path": "4k/Hina_home2.png"
+        },
+        {
+          "bytes": 121780,
+          "path": "4k/Hina_home3.png"
+        },
+        {
+          "bytes": 14638,
+          "path": "8k/Hina_home.atlas"
+        },
+        {
+          "bytes": 6000486,
+          "path": "8k/Hina_home.png"
+        },
+        {
+          "bytes": 295978,
+          "path": "8k/Hina_home.skel"
+        },
+        {
+          "bytes": 3682242,
+          "path": "8k/Hina_home2.png"
+        },
+        {
+          "bytes": 379026,
+          "path": "8k/Hina_home3.png"
+        },
+        {
+          "bytes": 18257,
+          "path": "Sound/Hina_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 19523,
+          "path": "Sound/Hina_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 13418,
+          "path": "Sound/Hina_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 17610,
+          "path": "Sound/Hina_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 15119,
+          "path": "Sound/Hina_MemorialLobby_2_3.wav"
+        },
+        {
+          "bytes": 9036,
+          "path": "Sound/Hina_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 20367,
+          "path": "Sound/Hina_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 15030,
+          "path": "Sound/Hina_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 17957,
+          "path": "Sound/Hina_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 887171,
+          "path": "Sound/Theme.wav"
+        },
+        {
+          "bytes": 15,
+          "path": "Sound/wav.bat"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 236610,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 555,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 286,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 378,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 1016177,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 804,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 467925,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 2116,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2911234797",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2911234797"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2911234797",
+      "updatedAt": "2026-10-26T04:17:35Z"
+    },
+    {
+      "folder": "2900400992",
+      "name": "日富美(泳装)｜hifumi(swim)｜ヒフミ(水着)｜Blue Archive",
+      "author": "Z_DK",
+      "description": "For settings, please move your mouse to the top right corner",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2900400992.gif?v=b6329167",
+        "bytes": 353207,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2900400992-v1.0.0.zip",
+        "bytes": 36770221,
+        "sha256": "8fedf6db6a85ff602295c64e88e44eb935badb4ef9c0e4852fd905635f553a2d"
+      },
+      "fileCount": 38,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 25713,
+          "path": "2k/CH0058_home.atlas"
+        },
+        {
+          "bytes": 2281273,
+          "path": "2k/CH0058_home.png"
+        },
+        {
+          "bytes": 1103647,
+          "path": "2k/CH0058_home.skel"
+        },
+        {
+          "bytes": 2629410,
+          "path": "2k/CH0058_home2.png"
+        },
+        {
+          "bytes": 25142,
+          "path": "4k/CH0058_home.atlas"
+        },
+        {
+          "bytes": 2680650,
+          "path": "4k/CH0058_home.png"
+        },
+        {
+          "bytes": 1103647,
+          "path": "4k/CH0058_home.skel"
+        },
+        {
+          "bytes": 2656446,
+          "path": "4k/CH0058_home2.png"
+        },
+        {
+          "bytes": 25483,
+          "path": "8k/CH0058_home.atlas"
+        },
+        {
+          "bytes": 7304290,
+          "path": "8k/CH0058_home.png"
+        },
+        {
+          "bytes": 1103647,
+          "path": "8k/CH0058_home.skel"
+        },
+        {
+          "bytes": 7413394,
+          "path": "8k/CH0058_home2.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 61132,
+          "path": "assets/index.68c94c9f.css"
+        },
+        {
+          "bytes": 1097807,
+          "path": "assets/index.7d5246b3.js"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 235291,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 560,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 339,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 877113,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 765,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 467925,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 4027,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 35727,
+          "path": "sound/CH0058_MemorialLobby_1.wav"
+        },
+        {
+          "bytes": 34381,
+          "path": "sound/CH0058_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 46220,
+          "path": "sound/CH0058_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 47470,
+          "path": "sound/CH0058_MemorialLobby_3.wav"
+        },
+        {
+          "bytes": 34170,
+          "path": "sound/CH0058_MemorialLobby_4.wav"
+        },
+        {
+          "bytes": 58728,
+          "path": "sound/CH0058_MemorialLobby_5.wav"
+        },
+        {
+          "bytes": 1402853,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2900400992",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2900400992"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2900400992",
+      "updatedAt": "2026-10-26T04:17:40Z"
+    },
+    {
+      "folder": "2925874645",
+      "name": "日富美｜hifumi｜ヒフミ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "I am looking for a solution for 8K, not available for now\n8k效果不行,加载也久,正在找新的办法,暂时不提供8K了",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2925874645.gif?v=37bba0ae",
+        "bytes": 352242,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2925874645-v1.0.0.zip",
+        "bytes": 30881962,
+        "sha256": "173c9cfcd120024975fa01c9b61d228f82b8f9798081cc5b683ef30fe261b097"
+      },
+      "fileCount": 42,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 19766,
+          "path": "2k/Hihumi_home.atlas"
+        },
+        {
+          "bytes": 1829094,
+          "path": "2k/Hihumi_home.png"
+        },
+        {
+          "bytes": 522613,
+          "path": "2k/Hihumi_home.skel"
+        },
+        {
+          "bytes": 2128673,
+          "path": "2k/Hihumi_home2.png"
+        },
+        {
+          "bytes": 19386,
+          "path": "4k/Hihumi_home.atlas"
+        },
+        {
+          "bytes": 2518012,
+          "path": "4k/Hihumi_home.png"
+        },
+        {
+          "bytes": 522613,
+          "path": "4k/Hihumi_home.skel"
+        },
+        {
+          "bytes": 1799862,
+          "path": "4k/Hihumi_home2.png"
+        },
+        {
+          "bytes": 19654,
+          "path": "8k/Hihumi_home.atlas"
+        },
+        {
+          "bytes": 6533204,
+          "path": "8k/Hihumi_home.png"
+        },
+        {
+          "bytes": 522613,
+          "path": "8k/Hihumi_home.skel"
+        },
+        {
+          "bytes": 4542106,
+          "path": "8k/Hihumi_home2.png"
+        },
+        {
+          "bytes": 24526,
+          "path": "Sound/Hihumi_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 43381,
+          "path": "Sound/Hihumi_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 24448,
+          "path": "Sound/Hihumi_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 20052,
+          "path": "Sound/Hihumi_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 25863,
+          "path": "Sound/Hihumi_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 24397,
+          "path": "Sound/Hihumi_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 19743,
+          "path": "Sound/Hihumi_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 24628,
+          "path": "Sound/Hihumi_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 31768,
+          "path": "Sound/Hihumi_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 24619,
+          "path": "Sound/Hihumi_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 35740,
+          "path": "Sound/Hihumi_MemorialLobby_6.wav"
+        },
+        {
+          "bytes": 1630595,
+          "path": "Sound/Theme.wav"
+        },
+        {
+          "bytes": 15,
+          "path": "Sound/wav.bat"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 236610,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 548,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 386,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 670197,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 818,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 467925,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 3761,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2925874645",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2925874645"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2925874645",
+      "updatedAt": "2026-10-26T04:17:44Z"
+    },
+    {
+      "folder": "3652790771",
+      "name": "日鞠(临战)｜himari(battle)｜ヒマリ(臨戦)｜Blue Archive",
+      "author": "Z_DK",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/3652790771.gif?v=1852ecaf",
+        "bytes": 426907,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-3652790771-v1.0.0.zip",
+        "bytes": 49453880,
+        "sha256": "2ee6435604639abef14cc1dc596be2b6cd533c8efdfc1a0b4d9f4fbad9109d7a"
+      },
+      "fileCount": 38,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 11845,
+          "path": "2k/CH0332_home.atlas"
+        },
+        {
+          "bytes": 2287094,
+          "path": "2k/CH0332_home.png"
+        },
+        {
+          "bytes": 833685,
+          "path": "2k/CH0332_home.skel"
+        },
+        {
+          "bytes": 1800664,
+          "path": "2k/CH0332_home_2.png"
+        },
+        {
+          "bytes": 780091,
+          "path": "2k/CH0332_home_3.png"
+        },
+        {
+          "bytes": 12702,
+          "path": "4k/CH0332_home.atlas"
+        },
+        {
+          "bytes": 9568382,
+          "path": "4k/CH0332_home.png"
+        },
+        {
+          "bytes": 833685,
+          "path": "4k/CH0332_home.skel"
+        },
+        {
+          "bytes": 5979460,
+          "path": "4k/CH0332_home_2.png"
+        },
+        {
+          "bytes": 4064750,
+          "path": "4k/CH0332_home_3.png"
+        },
+        {
+          "bytes": 12702,
+          "path": "8k/CH0332_home.atlas"
+        },
+        {
+          "bytes": 9568382,
+          "path": "8k/CH0332_home.png"
+        },
+        {
+          "bytes": 833685,
+          "path": "8k/CH0332_home.skel"
+        },
+        {
+          "bytes": 5979460,
+          "path": "8k/CH0332_home_2.png"
+        },
+        {
+          "bytes": 4064750,
+          "path": "8k/CH0332_home_3.png"
+        },
+        {
+          "bytes": 1195134,
+          "path": "BGM.wav"
+        },
+        {
+          "bytes": 14605,
+          "path": "CH0332_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 39617,
+          "path": "CH0332_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 36433,
+          "path": "CH0332_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 40294,
+          "path": "CH0332_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 9759,
+          "path": "CH0332_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 56941,
+          "path": "CH0332_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 20256,
+          "path": "CH0332_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 26690,
+          "path": "CH0332_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 38037,
+          "path": "CH0332_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 38041,
+          "path": "CH0332_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 26993,
+          "path": "CH0332_MemorialLobby_6_1.wav"
+        },
+        {
+          "bytes": 26426,
+          "path": "CH0332_MemorialLobby_6_2.wav"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97-DRYLDeN3.TTF"
+        },
+        {
+          "bytes": 924199,
+          "path": "assets/index-CQUR_vLf.js"
+        },
+        {
+          "bytes": 65272,
+          "path": "assets/index-CsDBtkr9.css"
+        },
+        {
+          "bytes": 477,
+          "path": "index.html"
+        },
+        {
+          "bytes": 7563,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 240933,
+          "path": "loading.webp"
+        },
+        {
+          "bytes": 278,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 842745,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 759,
+          "path": "project.json"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "3652790771",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3652790771"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#3652790771",
+      "updatedAt": "2026-10-26T05:08:22Z"
+    },
+    {
+      "folder": "2890093196",
+      "name": "日鞠｜himari｜ヒマリ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "For settings, please move your mouse to the top right corner",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2890093196.gif?v=7f5b810a",
+        "bytes": 357953,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2890093196-v1.0.0.zip",
+        "bytes": 26435161,
+        "sha256": "ae9a7b5e9766a786b91b64bdcf48bd0e651ed64392ced11e911b4c61be082233"
+      },
+      "fileCount": 45,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 27494,
+          "path": "2k/CH0159_home.atlas"
+        },
+        {
+          "bytes": 743408,
+          "path": "2k/CH0159_home.png"
+        },
+        {
+          "bytes": 592409,
+          "path": "2k/CH0159_home.skel"
+        },
+        {
+          "bytes": 447406,
+          "path": "2k/CH0159_home2.png"
+        },
+        {
+          "bytes": 301796,
+          "path": "2k/CH0159_home3.png"
+        },
+        {
+          "bytes": 26875,
+          "path": "4k/CH0159_home.atlas"
+        },
+        {
+          "bytes": 2003030,
+          "path": "4k/CH0159_home.png"
+        },
+        {
+          "bytes": 592409,
+          "path": "4k/CH0159_home.skel"
+        },
+        {
+          "bytes": 1133674,
+          "path": "4k/CH0159_home2.png"
+        },
+        {
+          "bytes": 791618,
+          "path": "4k/CH0159_home3.png"
+        },
+        {
+          "bytes": 27190,
+          "path": "8k/CH0159_home.atlas"
+        },
+        {
+          "bytes": 4964254,
+          "path": "8k/CH0159_home.png"
+        },
+        {
+          "bytes": 592409,
+          "path": "8k/CH0159_home.skel"
+        },
+        {
+          "bytes": 2866272,
+          "path": "8k/CH0159_home2.png"
+        },
+        {
+          "bytes": 2074024,
+          "path": "8k/CH0159_home3.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106519,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 236610,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 553,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 314,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 916001,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 794,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 467925,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 3060,
+          "path": "rfx-examples.json"
+        },
+        {
+          "bytes": 69201,
+          "path": "rfx-examples.png"
+        },
+        {
+          "bytes": 10387,
+          "path": "rfx-logo.png"
+        },
+        {
+          "bytes": 5801,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 50170,
+          "path": "sound/CH0159_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 31066,
+          "path": "sound/CH0159_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 35476,
+          "path": "sound/CH0159_MemorialLobby_2.wav"
+        },
+        {
+          "bytes": 43323,
+          "path": "sound/CH0159_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 23948,
+          "path": "sound/CH0159_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 54318,
+          "path": "sound/CH0159_MemorialLobby_4.wav"
+        },
+        {
+          "bytes": 67554,
+          "path": "sound/CH0159_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 36783,
+          "path": "sound/CH0159_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 50119,
+          "path": "sound/CH0159_MemorialLobby_6.wav"
+        },
+        {
+          "bytes": 1039849,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2890093196",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2890093196"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2890093196",
+      "updatedAt": "2026-10-26T04:17:53Z"
+    },
+    {
+      "folder": "3652188795",
+      "name": "时(临战)｜toki(battle)｜トキ(臨戦)｜Blue Archive",
+      "author": "Z_DK",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/3652188795.gif?v=8a17c3d7",
+        "bytes": 354894,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-3652188795-v1.0.0.zip",
+        "bytes": 57501054,
+        "sha256": "b4cef47338626cc67a6a64bb4ba675cb2ab8c3e8fad361a654aa9a292ad47508"
+      },
+      "fileCount": 41,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 15375,
+          "path": "2k/CH0333_home.atlas"
+        },
+        {
+          "bytes": 1630536,
+          "path": "2k/CH0333_home.png"
+        },
+        {
+          "bytes": 1137404,
+          "path": "2k/CH0333_home.skel"
+        },
+        {
+          "bytes": 1537533,
+          "path": "2k/CH0333_home_2.png"
+        },
+        {
+          "bytes": 1777564,
+          "path": "2k/CH0333_home_3.png"
+        },
+        {
+          "bytes": 16593,
+          "path": "4k/CH0333_home.atlas"
+        },
+        {
+          "bytes": 8091784,
+          "path": "4k/CH0333_home.png"
+        },
+        {
+          "bytes": 1137404,
+          "path": "4k/CH0333_home.skel"
+        },
+        {
+          "bytes": 7866360,
+          "path": "4k/CH0333_home_2.png"
+        },
+        {
+          "bytes": 7314762,
+          "path": "4k/CH0333_home_3.png"
+        },
+        {
+          "bytes": 16593,
+          "path": "8k/CH0333_home.atlas"
+        },
+        {
+          "bytes": 8091784,
+          "path": "8k/CH0333_home.png"
+        },
+        {
+          "bytes": 1137404,
+          "path": "8k/CH0333_home.skel"
+        },
+        {
+          "bytes": 7866360,
+          "path": "8k/CH0333_home_2.png"
+        },
+        {
+          "bytes": 7314762,
+          "path": "8k/CH0333_home_3.png"
+        },
+        {
+          "bytes": 1218706,
+          "path": "BGM.wav"
+        },
+        {
+          "bytes": 16297,
+          "path": "CH0333_MemorialLobby_1_1.ogg"
+        },
+        {
+          "bytes": 28784,
+          "path": "CH0333_MemorialLobby_1_2.ogg"
+        },
+        {
+          "bytes": 39174,
+          "path": "CH0333_MemorialLobby_2_1.ogg"
+        },
+        {
+          "bytes": 21152,
+          "path": "CH0333_MemorialLobby_2_2.ogg"
+        },
+        {
+          "bytes": 7572,
+          "path": "CH0333_MemorialLobby_3_1.ogg"
+        },
+        {
+          "bytes": 34434,
+          "path": "CH0333_MemorialLobby_3_2.ogg"
+        },
+        {
+          "bytes": 27497,
+          "path": "CH0333_MemorialLobby_3_3.ogg"
+        },
+        {
+          "bytes": 34521,
+          "path": "CH0333_MemorialLobby_4_1.ogg"
+        },
+        {
+          "bytes": 36380,
+          "path": "CH0333_MemorialLobby_4_2.ogg"
+        },
+        {
+          "bytes": 29076,
+          "path": "CH0333_MemorialLobby_5_1.ogg"
+        },
+        {
+          "bytes": 21759,
+          "path": "CH0333_MemorialLobby_5_2.ogg"
+        },
+        {
+          "bytes": 20432,
+          "path": "CH0333_MemorialLobby_6_1.ogg"
+        },
+        {
+          "bytes": 26812,
+          "path": "CH0333_MemorialLobby_6_2.ogg"
+        },
+        {
+          "bytes": 36621,
+          "path": "CH0333_MemorialLobby_7_1.ogg"
+        },
+        {
+          "bytes": 18436,
+          "path": "CH0333_MemorialLobby_7_2.ogg"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97-DRYLDeN3.TTF"
+        },
+        {
+          "bytes": 924199,
+          "path": "assets/index-CQUR_vLf.js"
+        },
+        {
+          "bytes": 65272,
+          "path": "assets/index-CsDBtkr9.css"
+        },
+        {
+          "bytes": 477,
+          "path": "index.html"
+        },
+        {
+          "bytes": 8625,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 240933,
+          "path": "loading.webp"
+        },
+        {
+          "bytes": 270,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 871480,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 804,
+          "path": "project.json"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "3652188795",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3652188795"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#3652188795",
+      "updatedAt": "2026-10-26T05:08:26Z"
+    },
+    {
+      "folder": "2967898485",
+      "name": "时(兔女郎)｜toki(buuny)｜トキ(バーニー)｜Blue Archive",
+      "author": "Z_DK",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2967898485.gif?v=5ac064e5",
+        "bytes": 320902,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2967898485-v1.0.0.zip",
+        "bytes": 25525152,
+        "sha256": "9d167f074f948f365baca10d16bf61fbec795138511cbf83b6d2330f34a99a26"
+      },
+      "fileCount": 39,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 16612,
+          "path": "2k/CH0211_home.atlas"
+        },
+        {
+          "bytes": 650818,
+          "path": "2k/CH0211_home.png"
+        },
+        {
+          "bytes": 545201,
+          "path": "2k/CH0211_home.skel"
+        },
+        {
+          "bytes": 625802,
+          "path": "2k/CH0211_home2.png"
+        },
+        {
+          "bytes": 16332,
+          "path": "4k/CH0211_home.atlas"
+        },
+        {
+          "bytes": 1830726,
+          "path": "4k/CH0211_home.png"
+        },
+        {
+          "bytes": 545201,
+          "path": "4k/CH0211_home.skel"
+        },
+        {
+          "bytes": 1479348,
+          "path": "4k/CH0211_home2.png"
+        },
+        {
+          "bytes": 16740,
+          "path": "8k/CH0211_home.atlas"
+        },
+        {
+          "bytes": 4747288,
+          "path": "8k/CH0211_home.png"
+        },
+        {
+          "bytes": 545201,
+          "path": "8k/CH0211_home.skel"
+        },
+        {
+          "bytes": 4164072,
+          "path": "8k/CH0211_home2.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 547,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 278,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 620914,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 702,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 3068,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 25946,
+          "path": "sound/CH0211_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 38418,
+          "path": "sound/CH0211_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 38670,
+          "path": "sound/CH0211_MemorialLobby_2.wav"
+        },
+        {
+          "bytes": 35772,
+          "path": "sound/CH0211_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 39654,
+          "path": "sound/CH0211_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 53565,
+          "path": "sound/CH0211_MemorialLobby_4.wav"
+        },
+        {
+          "bytes": 36393,
+          "path": "sound/CH0211_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 26101,
+          "path": "sound/CH0211_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 2243961,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 15,
+          "path": "sound/wav.bat"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2967898485",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2967898485"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2967898485",
+      "updatedAt": "2026-10-26T04:18:02Z"
+    },
+    {
+      "folder": "3049122664",
+      "name": "时雨(温泉)｜shigure(onsen)｜シグレ(温泉)｜Blue Archive",
+      "author": "Z_DK",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/3049122664.gif?v=98d48cfd",
+        "bytes": 307451,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-3049122664-v1.0.0.zip",
+        "bytes": 37982670,
+        "sha256": "caf4e57f15f43434bcb6089048ffbcc5862fefcf5ad9efbd36614d465fbabaae"
+      },
+      "fileCount": 44,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 24137,
+          "path": "2k/CH0123_home.atlas"
+        },
+        {
+          "bytes": 2789135,
+          "path": "2k/CH0123_home.png"
+        },
+        {
+          "bytes": 944837,
+          "path": "2k/CH0123_home.skel"
+        },
+        {
+          "bytes": 2008166,
+          "path": "2k/CH0123_home2.png"
+        },
+        {
+          "bytes": 1678055,
+          "path": "2k/CH0123_home3.png"
+        },
+        {
+          "bytes": 23687,
+          "path": "4k/CH0123_home.atlas"
+        },
+        {
+          "bytes": 3110582,
+          "path": "4k/CH0123_home.png"
+        },
+        {
+          "bytes": 944837,
+          "path": "4k/CH0123_home.skel"
+        },
+        {
+          "bytes": 1224010,
+          "path": "4k/CH0123_home2.png"
+        },
+        {
+          "bytes": 1718052,
+          "path": "4k/CH0123_home3.png"
+        },
+        {
+          "bytes": 24019,
+          "path": "8k/CH0123_home.atlas"
+        },
+        {
+          "bytes": 7683846,
+          "path": "8k/CH0123_home.png"
+        },
+        {
+          "bytes": 944837,
+          "path": "8k/CH0123_home.skel"
+        },
+        {
+          "bytes": 3193522,
+          "path": "8k/CH0123_home2.png"
+        },
+        {
+          "bytes": 4626538,
+          "path": "8k/CH0123_home3.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1106225,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 542,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 278,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 668002,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 756,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 5161,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 39123,
+          "path": "sound/CH0123_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 29004,
+          "path": "sound/CH0123_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 42831,
+          "path": "sound/CH0123_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 32336,
+          "path": "sound/CH0123_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 36311,
+          "path": "sound/CH0123_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 31928,
+          "path": "sound/CH0123_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 31758,
+          "path": "sound/CH0123_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 41337,
+          "path": "sound/CH0123_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 68629,
+          "path": "sound/CH0123_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 61413,
+          "path": "sound/CH0123_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 77974,
+          "path": "sound/CH0123_MemorialLobby_6_1.wav"
+        },
+        {
+          "bytes": 44177,
+          "path": "sound/CH0123_MemorialLobby_6_2.wav"
+        },
+        {
+          "bytes": 810210,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "3049122664",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3049122664"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#3049122664",
+      "updatedAt": "2026-10-26T04:18:07Z"
+    },
+    {
+      "folder": "2895546732",
+      "name": "时雨｜shigure｜シグレ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "For settings, please move your mouse to the top right corner",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2895546732.gif?v=54e8377a",
+        "bytes": 347204,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2895546732-v1.0.0.zip",
+        "bytes": 48690242,
+        "sha256": "afbda2d35158703fb6b4f942db517ff7a4fd679f6ce5799f6301853da7750bdf"
+      },
+      "fileCount": 59,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 5960,
+          "path": "2k/Shigure_00.atlas"
+        },
+        {
+          "bytes": 585100,
+          "path": "2k/Shigure_00.png"
+        },
+        {
+          "bytes": 25562,
+          "path": "2k/Shigure_00.skel"
+        },
+        {
+          "bytes": 12575,
+          "path": "2k/Shigure_01.atlas"
+        },
+        {
+          "bytes": 772668,
+          "path": "2k/Shigure_01.png"
+        },
+        {
+          "bytes": 83410,
+          "path": "2k/Shigure_01.skel"
+        },
+        {
+          "bytes": 47820,
+          "path": "2k/Shigure_home.atlas"
+        },
+        {
+          "bytes": 1169942,
+          "path": "2k/Shigure_home.png"
+        },
+        {
+          "bytes": 1159276,
+          "path": "2k/Shigure_home.skel"
+        },
+        {
+          "bytes": 1224866,
+          "path": "2k/Shigure_home2.png"
+        },
+        {
+          "bytes": 5909,
+          "path": "4k/Shigure_00.atlas"
+        },
+        {
+          "bytes": 1380474,
+          "path": "4k/Shigure_00.png"
+        },
+        {
+          "bytes": 25562,
+          "path": "4k/Shigure_00.skel"
+        },
+        {
+          "bytes": 12261,
+          "path": "4k/Shigure_01.atlas"
+        },
+        {
+          "bytes": 1921840,
+          "path": "4k/Shigure_01.png"
+        },
+        {
+          "bytes": 83410,
+          "path": "4k/Shigure_01.skel"
+        },
+        {
+          "bytes": 46658,
+          "path": "4k/Shigure_home.atlas"
+        },
+        {
+          "bytes": 2501444,
+          "path": "4k/Shigure_home.png"
+        },
+        {
+          "bytes": 1159276,
+          "path": "4k/Shigure_home.skel"
+        },
+        {
+          "bytes": 3228364,
+          "path": "4k/Shigure_home2.png"
+        },
+        {
+          "bytes": 5966,
+          "path": "8k/Shigure_00.atlas"
+        },
+        {
+          "bytes": 3992980,
+          "path": "8k/Shigure_00.png"
+        },
+        {
+          "bytes": 25562,
+          "path": "8k/Shigure_00.skel"
+        },
+        {
+          "bytes": 12526,
+          "path": "8k/Shigure_01.atlas"
+        },
+        {
+          "bytes": 4797284,
+          "path": "8k/Shigure_01.png"
+        },
+        {
+          "bytes": 83410,
+          "path": "8k/Shigure_01.skel"
+        },
+        {
+          "bytes": 47437,
+          "path": "8k/Shigure_home.atlas"
+        },
+        {
+          "bytes": 7521640,
+          "path": "8k/Shigure_home.png"
+        },
+        {
+          "bytes": 1159276,
+          "path": "8k/Shigure_home.skel"
+        },
+        {
+          "bytes": 8403100,
+          "path": "8k/Shigure_home2.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 1096236,
+          "path": "assets/index.123c3595.js"
+        },
+        {
+          "bytes": 62381,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 61133,
+          "path": "assets/index.cb33a4d3.css"
+        },
+        {
+          "bytes": 1106223,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 711,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 289,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 315,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 917486,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 741,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 4554,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 14877,
+          "path": "sound/Shigure_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 33632,
+          "path": "sound/Shigure_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 23183,
+          "path": "sound/Shigure_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 25590,
+          "path": "sound/Shigure_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 27644,
+          "path": "sound/Shigure_MemorialLobby_3.wav"
+        },
+        {
+          "bytes": 46807,
+          "path": "sound/Shigure_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 32033,
+          "path": "sound/Shigure_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 29239,
+          "path": "sound/Shigure_MemorialLobby_5_1.wav"
+        },
+        {
+          "bytes": 19531,
+          "path": "sound/Shigure_MemorialLobby_5_2.wav"
+        },
+        {
+          "bytes": 810210,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2895546732",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2895546732"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2895546732",
+      "updatedAt": "2026-10-26T04:18:14Z"
+    },
+    {
+      "folder": "2937174799",
+      "name": "时｜toki｜トキ｜Blue Archive",
+      "author": "Z_DK",
+      "description": "I am looking for a solution for 8K, not available for now\n8k效果不行,加载也久,正在找新的办法,暂时不提供8K了",
+      "version": "1.0.0",
+      "tags": [],
+      "entry": "index.html",
+      "license": "unknown",
+      "preview": {
+        "url": "previews/2937174799.gif?v=88c64190",
+        "bytes": 304881,
+        "width": 150,
+        "height": 150
+      },
+      "download": {
+        "url": "https://github.com/Jailvisor/octocaris-community/releases/download/wallpapers/octocaris-2937174799-v1.0.0.zip",
+        "bytes": 60604058,
+        "sha256": "89123c061052b30ffb6978037f2c2bcdf9a66ff7cd0a30fc5c036febd84040aa"
+      },
+      "fileCount": 39,
+      "filesTruncated": false,
+      "files": [
+        {
+          "bytes": 49283,
+          "path": "2k/CH0187_home.atlas"
+        },
+        {
+          "bytes": 3044178,
+          "path": "2k/CH0187_home.png"
+        },
+        {
+          "bytes": 1023878,
+          "path": "2k/CH0187_home.skel"
+        },
+        {
+          "bytes": 1518375,
+          "path": "2k/CH0187_home2.png"
+        },
+        {
+          "bytes": 1502513,
+          "path": "2k/CH0187_home3.png"
+        },
+        {
+          "bytes": 48297,
+          "path": "4k/CH0187_home.atlas"
+        },
+        {
+          "bytes": 23266414,
+          "path": "4k/CH0187_home.png"
+        },
+        {
+          "bytes": 1023878,
+          "path": "4k/CH0187_home.skel"
+        },
+        {
+          "bytes": 10588973,
+          "path": "4k/CH0187_home2.png"
+        },
+        {
+          "bytes": 9296612,
+          "path": "4k/CH0187_home3.png"
+        },
+        {
+          "bytes": 3948628,
+          "path": "assets/font.51afcd97.TTF"
+        },
+        {
+          "bytes": 62370,
+          "path": "assets/index.b5021dcf.css"
+        },
+        {
+          "bytes": 1104862,
+          "path": "assets/index.e2ce666a.js"
+        },
+        {
+          "bytes": 4547060,
+          "path": "assets/xinwan.00e49326.otf"
+        },
+        {
+          "bytes": 249956,
+          "path": "default-bundle.json"
+        },
+        {
+          "bytes": 1161480,
+          "path": "default-bundle.zip"
+        },
+        {
+          "bytes": 463,
+          "path": "index.html"
+        },
+        {
+          "bytes": 542,
+          "path": "loadJson.json"
+        },
+        {
+          "bytes": 288,
+          "path": "octos-defaults.json"
+        },
+        {
+          "bytes": 375,
+          "path": "octos.json"
+        },
+        {
+          "bytes": 671874,
+          "path": "preview.gif"
+        },
+        {
+          "bytes": 801,
+          "path": "project.json"
+        },
+        {
+          "bytes": 28563,
+          "path": "revoltfx-spritesheet.json"
+        },
+        {
+          "bytes": 698979,
+          "path": "revoltfx-spritesheet.png"
+        },
+        {
+          "bytes": 4340,
+          "path": "serifu.txt"
+        },
+        {
+          "bytes": 28896,
+          "path": "sound/CH0187_MemorialLobby_1_1.wav"
+        },
+        {
+          "bytes": 25348,
+          "path": "sound/CH0187_MemorialLobby_1_2.wav"
+        },
+        {
+          "bytes": 24083,
+          "path": "sound/CH0187_MemorialLobby_1_3.wav"
+        },
+        {
+          "bytes": 30185,
+          "path": "sound/CH0187_MemorialLobby_2_1.wav"
+        },
+        {
+          "bytes": 31806,
+          "path": "sound/CH0187_MemorialLobby_2_2.wav"
+        },
+        {
+          "bytes": 37880,
+          "path": "sound/CH0187_MemorialLobby_3_1.wav"
+        },
+        {
+          "bytes": 27507,
+          "path": "sound/CH0187_MemorialLobby_3_2.wav"
+        },
+        {
+          "bytes": 39511,
+          "path": "sound/CH0187_MemorialLobby_4_1.wav"
+        },
+        {
+          "bytes": 41260,
+          "path": "sound/CH0187_MemorialLobby_4_2.wav"
+        },
+        {
+          "bytes": 35963,
+          "path": "sound/CH0187_MemorialLobby_5.wav"
+        },
+        {
+          "bytes": 1042264,
+          "path": "sound/Theme.wav"
+        },
+        {
+          "bytes": 15,
+          "path": "sound/wav.bat"
+        },
+        {
+          "bytes": 363,
+          "path": "trail.png"
+        },
+        {
+          "bytes": 1497,
+          "path": "vite.svg"
+        }
+      ],
+      "source": {
+        "kind": "wallpaper-engine",
+        "workshopId": "2937174799",
+        "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2937174799"
+      },
+      "pageUrl": "https://github.com/Jailvisor/octocaris-community/blob/main/README.md#2937174799",
+      "updatedAt": "2026-10-26T04:18:19Z"
     },
     {
       "folder": "3481411508",

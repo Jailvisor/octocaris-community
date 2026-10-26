@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **83 张壁纸 · 2.8 GB** 压缩包。
+- **103 张壁纸 · 3.5 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -116,5 +116,25 @@
 <tr id="3059909046"><td><a href="previews/3059909046.gif"><img src="thumbs/3059909046.webp" width="96" alt=""></a></td><td><strong>御坂美琴｜mikoto｜ミコト｜Blue Archive</strong><br><span>Z_DK</span><br><code>3059909046</code></td><td align="right">1.0.0<br>27.0 MB</td></tr>
 <tr id="3706666315"><td><a href="previews/3706666315.gif"><img src="thumbs/3706666315.webp" width="96" alt=""></a></td><td><strong>心华｜konoka｜コノカ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3706666315</code></td><td align="right">1.0.0<br>45.3 MB</td></tr>
 <tr id="2904675331"><td><a href="previews/2904675331.gif"><img src="thumbs/2904675331.webp" width="96" alt=""></a></td><td><strong>心奈｜kokona｜ココナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2904675331</code></td><td align="right">1.0.0<br>29.2 MB</td></tr>
+<tr id="2879360339"><td><a href="previews/2879360339.gif"><img src="thumbs/2879360339.webp" width="96" alt=""></a></td><td><strong>志美子｜shimiko｜シミコ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2879360339</code></td><td align="right">1.0.0<br>19.6 MB</td></tr>
+<tr id="3009152873"><td><a href="previews/3009152873.gif"><img src="thumbs/3009152873.webp" width="96" alt=""></a></td><td><strong>忧(泳装)｜ui(swim)｜ウイ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3009152873</code></td><td align="right">1.0.0<br>43.2 MB</td></tr>
+<tr id="2952764219"><td><a href="previews/2952764219.gif"><img src="thumbs/2952764219.webp" width="96" alt=""></a></td><td><strong>忧｜ui｜ウイ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2952764219</code></td><td align="right">1.0.0<br>28.3 MB</td></tr>
+<tr id="2926793386"><td><a href="previews/2926793386.gif"><img src="thumbs/2926793386.webp" width="96" alt=""></a></td><td><strong>惠｜megu｜メグ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2926793386</code></td><td align="right">1.0.0<br>54.9 MB</td></tr>
+<tr id="3009146387"><td><a href="previews/3009146387.gif"><img src="thumbs/3009146387.webp" width="96" alt=""></a></td><td><strong>日向(泳装)｜hinata(swim)｜ヒナタ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3009146387</code></td><td align="right">1.0.0<br>43.8 MB</td></tr>
+<tr id="2932905700"><td><a href="previews/2932905700.gif"><img src="thumbs/2932905700.webp" width="96" alt=""></a></td><td><strong>日向｜hinata｜ヒナタ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2932905700</code></td><td align="right">1.0.0<br>31.1 MB</td></tr>
+<tr id="3299095793"><td><a href="previews/3299095793.gif"><img src="thumbs/3299095793.webp" width="96" alt=""></a></td><td><strong>日和(泳装)｜hiyori(swim)｜ヒヨリ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3299095793</code></td><td align="right">1.0.0<br>40.1 MB</td></tr>
+<tr id="2958393849"><td><a href="previews/2958393849.gif"><img src="thumbs/2958393849.webp" width="96" alt=""></a></td><td><strong>日和｜hiyori｜ヒヨリ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2958393849</code></td><td align="right">1.0.0<br>29.8 MB</td></tr>
+<tr id="2895926515"><td><a href="previews/2895926515.gif"><img src="thumbs/2895926515.webp" width="96" alt=""></a></td><td><strong>日奈(泳装)｜hina(swim)｜ヒナ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2895926515</code></td><td align="right">1.0.0<br>21.7 MB</td></tr>
+<tr id="3151026040"><td><a href="previews/3151026040.gif"><img src="thumbs/3151026040.webp" width="96" alt=""></a></td><td><strong>日奈(礼服)｜hina(dress)｜ヒナ(ドレス)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3151026040</code></td><td align="right">1.0.0<br>44.5 MB</td></tr>
+<tr id="2911234797"><td><a href="previews/2911234797.gif"><img src="thumbs/2911234797.webp" width="96" alt=""></a></td><td><strong>日奈｜hina｜ヒナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2911234797</code></td><td align="right">1.0.0<br>24.7 MB</td></tr>
+<tr id="2900400992"><td><a href="previews/2900400992.gif"><img src="thumbs/2900400992.webp" width="96" alt=""></a></td><td><strong>日富美(泳装)｜hifumi(swim)｜ヒフミ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2900400992</code></td><td align="right">1.0.0<br>35.1 MB</td></tr>
+<tr id="2925874645"><td><a href="previews/2925874645.gif"><img src="thumbs/2925874645.webp" width="96" alt=""></a></td><td><strong>日富美｜hifumi｜ヒフミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2925874645</code></td><td align="right">1.0.0<br>29.5 MB</td></tr>
+<tr id="3652790771"><td><a href="previews/3652790771.gif"><img src="thumbs/3652790771.webp" width="96" alt=""></a></td><td><strong>日鞠(临战)｜himari(battle)｜ヒマリ(臨戦)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3652790771</code></td><td align="right">1.0.0<br>47.2 MB</td></tr>
+<tr id="2890093196"><td><a href="previews/2890093196.gif"><img src="thumbs/2890093196.webp" width="96" alt=""></a></td><td><strong>日鞠｜himari｜ヒマリ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2890093196</code></td><td align="right">1.0.0<br>25.2 MB</td></tr>
+<tr id="3652188795"><td><a href="previews/3652188795.gif"><img src="thumbs/3652188795.webp" width="96" alt=""></a></td><td><strong>时(临战)｜toki(battle)｜トキ(臨戦)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3652188795</code></td><td align="right">1.0.0<br>54.8 MB</td></tr>
+<tr id="2967898485"><td><a href="previews/2967898485.gif"><img src="thumbs/2967898485.webp" width="96" alt=""></a></td><td><strong>时(兔女郎)｜toki(buuny)｜トキ(バーニー)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2967898485</code></td><td align="right">1.0.0<br>24.3 MB</td></tr>
+<tr id="3049122664"><td><a href="previews/3049122664.gif"><img src="thumbs/3049122664.webp" width="96" alt=""></a></td><td><strong>时雨(温泉)｜shigure(onsen)｜シグレ(温泉)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3049122664</code></td><td align="right">1.0.0<br>36.2 MB</td></tr>
+<tr id="2895546732"><td><a href="previews/2895546732.gif"><img src="thumbs/2895546732.webp" width="96" alt=""></a></td><td><strong>时雨｜shigure｜シグレ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2895546732</code></td><td align="right">1.0.0<br>46.4 MB</td></tr>
+<tr id="2937174799"><td><a href="previews/2937174799.gif"><img src="thumbs/2937174799.webp" width="96" alt=""></a></td><td><strong>时｜toki｜トキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2937174799</code></td><td align="right">1.0.0<br>57.8 MB</td></tr>
 <tr id="3481411508"><td><a href="previews/3481411508.gif"><img src="thumbs/3481411508.webp" width="96" alt=""></a></td><td><strong>菲娜(导游)｜pina(guide)｜ピナ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3481411508</code></td><td align="right">1.0.1<br>40.0 MB</td></tr>
 </table>
