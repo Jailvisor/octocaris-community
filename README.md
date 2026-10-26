@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **123 张壁纸 · 4.3 GB** 压缩包。
+- **143 张壁纸 · 4.9 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -156,5 +156,25 @@
 <tr id="2922877436"><td><a href="previews/2922877436.gif"><img src="thumbs/2922877436.webp" width="96" alt=""></a></td><td><strong>未花｜mika｜ミカ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2922877436</code></td><td align="right">1.0.0<br>53.4 MB</td></tr>
 <tr id="3436984219"><td><a href="previews/3436984219.gif"><img src="thumbs/3436984219.webp" width="96" alt=""></a></td><td><strong>朱莉(打工)｜juri(parttime)｜ジュリ(バイト)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3436984219</code></td><td align="right">1.0.0<br>20.7 MB</td></tr>
 <tr id="2910510590"><td><a href="previews/2910510590.gif"><img src="thumbs/2910510590.webp" width="96" alt=""></a></td><td><strong>朱莉｜juri｜ジュリ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2910510590</code></td><td align="right">1.0.0<br>71.8 MB</td></tr>
+<tr id="3719564713"><td><a href="previews/3719564713.gif"><img src="thumbs/3719564713.webp" width="96" alt=""></a></td><td><strong>朱音(制服)｜akane(School Uniform)｜アカネ(制服)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3719564713</code></td><td align="right">1.0.0<br>39.6 MB</td></tr>
+<tr id="2961340738"><td><a href="previews/2961340738.gif"><img src="thumbs/2961340738.webp" width="96" alt=""></a></td><td><strong>果穗｜kaho｜カホ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2961340738</code></td><td align="right">1.0.0<br>34.7 MB</td></tr>
+<tr id="2908329200"><td><a href="previews/2908329200.gif"><img src="thumbs/2908329200.webp" width="96" alt=""></a></td><td><strong>枫香(新年)｜fuuka(newyear)｜フウカ(正月)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2908329200</code></td><td align="right">1.0.0<br>34.7 MB</td></tr>
+<tr id="2940685426"><td><a href="previews/2940685426.gif"><img src="thumbs/2940685426.webp" width="96" alt=""></a></td><td><strong>枫香｜fuuka｜フウカ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2940685426</code></td><td align="right">1.0.0<br>37.8 MB</td></tr>
+<tr id="2943118995"><td><a href="previews/2943118995.gif"><img src="thumbs/2943118995.webp" width="96" alt=""></a></td><td><strong>枫｜kaede｜カエデ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2943118995</code></td><td align="right">1.0.0<br>23.7 MB</td></tr>
+<tr id="3673248557"><td><a href="previews/3673248557.gif"><img src="thumbs/3673248557.webp" width="96" alt=""></a></td><td><strong>柚子(临战)｜yuzu(armed)｜ユズ(臨戦)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3673248557</code></td><td align="right">1.0.0<br>20.2 MB</td></tr>
+<tr id="2968328266"><td><a href="previews/2968328266.gif"><img src="thumbs/2968328266.webp" width="96" alt=""></a></td><td><strong>柚子(女仆)｜yuzu(mind)｜ユズ(メイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2968328266</code></td><td align="right">1.0.0<br>30.7 MB</td></tr>
+<tr id="2905100172"><td><a href="previews/2905100172.gif"><img src="thumbs/2905100172.webp" width="96" alt=""></a></td><td><strong>柚子｜yuzu｜ユズ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2905100172</code></td><td align="right">1.0.0<br>34.1 MB</td></tr>
+<tr id="3032136564"><td><a href="previews/3032136564.gif"><img src="thumbs/3032136564.webp" width="96" alt=""></a></td><td><strong>柯托莉(应援)｜kotori｜コトリ(応援)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3032136564</code></td><td align="right">1.0.0<br>34.4 MB</td></tr>
+<tr id="2881436343"><td><a href="previews/2881436343.gif"><img src="thumbs/2881436343.webp" width="96" alt=""></a></td><td><strong>柯托莉｜kotori｜コトリ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2881436343</code></td><td align="right">1.0.0<br>14.6 MB</td></tr>
+<tr id="2903873130"><td><a href="previews/2903873130.gif"><img src="thumbs/2903873130.webp" width="96" alt=""></a></td><td><strong>桃井｜momoi｜モモイ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2903873130</code></td><td align="right">1.0.0<br>29.7 MB</td></tr>
+<tr id="3276523785"><td><a href="previews/3276523785.gif"><img src="thumbs/3276523785.webp" width="96" alt=""></a></td><td><strong>桐乃(泳装)｜kirino(swim)｜キリノ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3276523785</code></td><td align="right">1.0.0<br>25.3 MB</td></tr>
+<tr id="2937616741"><td><a href="previews/2937616741.gif"><img src="thumbs/2937616741.webp" width="96" alt=""></a></td><td><strong>桐乃｜kirino｜キリノ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2937616741</code></td><td align="right">1.0.0<br>32.5 MB</td></tr>
+<tr id="3509059137"><td><a href="previews/3509059137.gif"><img src="thumbs/3509059137.webp" width="96" alt=""></a></td><td><strong>桔梗(泳装)｜kikyou(swim)｜キキョウ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3509059137</code></td><td align="right">1.0.0<br>55.4 MB</td></tr>
+<tr id="3092798071"><td><a href="previews/3092798071.gif"><img src="thumbs/3092798071.webp" width="96" alt=""></a></td><td><strong>桔梗｜kikyou｜キキョウ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3092798071</code></td><td align="right">1.0.0<br>31.9 MB</td></tr>
+<tr id="3025433972"><td><a href="previews/3025433972.gif"><img src="thumbs/3025433972.webp" width="96" alt=""></a></td><td><strong>梅露｜meru｜メル｜Blue Archive</strong><br><span>Z_DK</span><br><code>3025433972</code></td><td align="right">1.0.0<br>32.9 MB</td></tr>
+<tr id="2896839052"><td><a href="previews/2896839052.gif"><img src="thumbs/2896839052.webp" width="96" alt=""></a></td><td><strong>梓(泳装)｜azusa(swim)｜アズサ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2896839052</code></td><td align="right">1.0.0<br>31.0 MB</td></tr>
+<tr id="2917835420"><td><a href="previews/2917835420.gif"><img src="thumbs/2917835420.webp" width="96" alt=""></a></td><td><strong>梓｜azusa｜アズサ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2917835420</code></td><td align="right">1.0.0<br>28.2 MB</td></tr>
+<tr id="3203894762"><td><a href="previews/3203894762.gif"><img src="thumbs/3203894762.webp" width="96" alt=""></a></td><td><strong>椿(向导)｜tsubaki(guide)｜ツバキ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3203894762</code></td><td align="right">1.0.0<br>30.5 MB</td></tr>
+<tr id="2942023867"><td><a href="previews/2942023867.gif"><img src="thumbs/2942023867.webp" width="96" alt=""></a></td><td><strong>椿｜tsubaki｜ツバキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2942023867</code></td><td align="right">1.0.0<br>31.0 MB</td></tr>
 <tr id="3481411508"><td><a href="previews/3481411508.gif"><img src="thumbs/3481411508.webp" width="96" alt=""></a></td><td><strong>菲娜(导游)｜pina(guide)｜ピナ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3481411508</code></td><td align="right">1.0.1<br>40.0 MB</td></tr>
 </table>
