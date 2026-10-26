@@ -422,6 +422,77 @@ def referenced_assets(root: Path) -> set[str]:
     return assets
 
 
+def pending_count() -> tuple[int, int]:
+    """(not uploaded, missing dist) counts."""
+    cache = load_cache()
+    entries = [entry for entry in cache.values() if not entry.get("uploaded")]
+    missing = [entry for entry in entries if not (DIST / entry["asset"]).is_file()]
+    return len(entries), len(missing)
+
+
+def run_self(arguments: list[str], retries: int = 0) -> int:
+    command = [sys.executable, str(Path(__file__).resolve()), *arguments]
+    for attempt in range(retries + 1):
+        result = subprocess.run(command, cwd=ROOT)
+        if result.returncode == 0:
+            return 0
+        if attempt < retries:
+            delay = 10 * (attempt + 1)
+            print(f"retrying in {delay}s: publish.py {' '.join(arguments)}")
+            time.sleep(delay)
+    return result.returncode
+
+
+def command_sync(args) -> None:
+    """Build, then upload + render + validate + push one batch at a time."""
+    if not args.skip_build:
+        build_args = ["build"]
+        if args.root:
+            build_args += ["--root", args.root]
+        if run_self(build_args) != 0:
+            print("build failed; stopping")
+            raise SystemExit(1)
+
+    pending, missing = pending_count()
+    if missing:
+        print(f"{missing} asset(s) missing from dist; run build first")
+        raise SystemExit(1)
+    if pending == 0:
+        print("nothing to upload")
+        return
+
+    total_batches = (pending + args.batch_size - 1) // args.batch_size
+    print(f"{pending} pending, {total_batches} batch(es) of {args.batch_size}")
+
+    batch = 0
+    while True:
+        pending, _ = pending_count()
+        if pending == 0:
+            break
+        if args.max_batches and batch >= args.max_batches:
+            print(f"stopped after {batch} batch(es), {pending} still pending")
+            break
+        batch += 1
+        print(f"=== batch {batch}/{total_batches}: {pending} pending ===")
+        upload_args = [
+            "upload", "--limit", str(args.batch_size),
+            "--batch-size", str(args.upload_batch), "--jobs", str(args.jobs),
+        ]
+        if run_self(upload_args) != 0:
+            print("upload failed; rerun sync to resume")
+            raise SystemExit(1)
+        if run_self(["render"]) != 0:
+            raise SystemExit(1)
+        if not args.skip_validate and run_self(["validate", "--strict", "--check-assets"]) != 0:
+            print("validation failed; stopping")
+            raise SystemExit(1)
+        if run_self(["push", "--message", f"{args.message} (batch {batch})"], retries=2) != 0:
+            print("push failed; rerun sync to resume")
+            raise SystemExit(1)
+
+    print(f"done: {batch} batch(es)")
+
+
 def command_push(args) -> None:
     referenced = referenced_assets(ROOT)
     subprocess.run(["git", "add", "-A"], cwd=ROOT, check=True)
@@ -482,6 +553,16 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
 
     sub.add_parser("status", help="show cache and release summary")
 
+    sync = sub.add_parser("sync", help="build, then upload/render/validate/push in batches")
+    sync.add_argument("--root")
+    sync.add_argument("--batch-size", type=int, default=20)
+    sync.add_argument("--upload-batch", type=int, default=8)
+    sync.add_argument("--jobs", type=int, default=1)
+    sync.add_argument("--max-batches", type=int)
+    sync.add_argument("--skip-build", action="store_true")
+    sync.add_argument("--skip-validate", action="store_true")
+    sync.add_argument("--message", default="Add wallpapers")
+
     push = sub.add_parser("push", help="commit and push the catalog")
     push.add_argument("--message", default="Update wallpaper catalog")
     return parser.parse_args(argv)
@@ -497,6 +578,7 @@ def main(argv: list[str]) -> int:
         "validate": command_validate,
         "status": command_status,
         "push": command_push,
+        "sync": command_sync,
     }
     handlers[args.command](args)
     return 0

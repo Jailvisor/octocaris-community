@@ -65,6 +65,8 @@ python tools/publish.py render                  # index.json/README.md from uplo
 python tools/publish.py validate --strict
 python tools/publish.py validate --check-assets # also checks the release
 python tools/publish.py push                    # commit index/README + referenced assets only
+python tools/publish.py sync --batch-size 20    # build, then upload/render/validate/push per batch
+python tools/publish.py sync --skip-build       # resume a stopped sync without repacking
 ```
 
 - Default source root is `/mnt/c/fileHub/wallpaper` (`COMMUNITY_SOURCE` overrides).
@@ -75,6 +77,11 @@ python tools/publish.py push                    # commit index/README + referenc
   network failure resumes where it stopped. `--force` uses `--clobber`.
 - `upload --jobs N` uploads batches in parallel; `--batch-size` controls how many
   files go into one `gh release upload` call.
+- `sync` is the unattended path: it runs `build`, then loops
+  `upload --limit <batch-size>` → `render` → `validate --strict --check-assets` →
+  `push`. It stops on the first failure and resumes when rerun, because upload
+  state lives in `.publish-cache.json`. `--max-batches` limits a run;
+  `--skip-build` resumes after a finished build.
 - Archives are deterministic: sorted entries, 1980 timestamps, deflate level 9,
   single `<id>/` root. Rebuilding unchanged content produces the same SHA-256.
 

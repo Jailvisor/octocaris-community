@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **2 张壁纸 · 70.8 MB** 压缩包。
+- **3 张壁纸 · 120.2 MB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -34,6 +34,7 @@
 
 <table>
 <tr><th>预览</th><th>壁纸</th><th align="right">版本</th></tr>
+<tr id="3533267510"><td><a href="previews/3533267510.gif"><img src="thumbs/3533267510.webp" width="96" alt=""></a></td><td><strong>一花(泳装)｜ichika(swim)｜イチカ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3533267510</code></td><td align="right">1.0.0<br>49.4 MB</td></tr>
 <tr id="3253308696"><td><a href="previews/3253308696.gif"><img src="thumbs/3253308696.webp" width="96" alt=""></a></td><td><strong>小桃(女仆)｜momoi(maid)｜モモイ(メイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3253308696</code></td><td align="right">1.0.0<br>30.9 MB</td></tr>
 <tr id="3481411508"><td><a href="previews/3481411508.gif"><img src="thumbs/3481411508.webp" width="96" alt=""></a></td><td><strong>菲娜(导游)｜pina(guide)｜ピナ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3481411508</code></td><td align="right">1.0.1<br>40.0 MB</td></tr>
 </table>
