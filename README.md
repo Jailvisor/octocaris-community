@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **163 张壁纸 · 5.5 GB** 压缩包。
+- **183 张壁纸 · 6.3 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -196,5 +196,25 @@
 <tr id="2856293182"><td><a href="previews/2856293182.gif"><img src="thumbs/2856293182.webp" width="96" alt=""></a></td><td><strong>瀬奈｜sena｜セナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2856293182</code></td><td align="right">1.0.0<br>17.6 MB</td></tr>
 <tr id="3656573240"><td><a href="previews/3656573240.gif"><img src="thumbs/3656573240.webp" width="96" alt=""></a></td><td><strong>爱丽丝(临战)｜arisu(battle)｜アリス (臨戦)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3656573240</code></td><td align="right">1.0.0<br>58.4 MB</td></tr>
 <tr id="2967475325"><td><a href="previews/2967475325.gif"><img src="thumbs/2967475325.webp" width="96" alt=""></a></td><td><strong>爱丽丝(女仆)｜arisu(mind)｜アリス(メイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2967475325</code></td><td align="right">1.0.0<br>28.8 MB</td></tr>
+<tr id="2903392574"><td><a href="previews/2903392574.gif"><img src="thumbs/2903392574.webp" width="96" alt=""></a></td><td><strong>爱丽丝｜aris｜アリス｜Blue Archive</strong><br><span>Z_DK</span><br><code>2903392574</code></td><td align="right">1.0.0<br>20.6 MB</td></tr>
+<tr id="3231856026"><td><a href="previews/3231856026.gif"><img src="thumbs/3231856026.webp" width="96" alt=""></a></td><td><strong>爱莉(乐队)｜airi(band)｜アイリ(バンド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3231856026</code></td><td align="right">1.0.0<br>28.9 MB</td></tr>
+<tr id="2973198545"><td><a href="previews/2973198545.gif"><img src="thumbs/2973198545.webp" width="96" alt=""></a></td><td><strong>爱莉｜airi｜アイリ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2973198545</code></td><td align="right">1.0.0<br>30.5 MB</td></tr>
+<tr id="3355404732"><td><a href="previews/3355404732.gif"><img src="thumbs/3355404732.webp" width="96" alt=""></a></td><td><strong>玛丽(偶像)｜mari(idol)｜マリ(アイドル)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3355404732</code></td><td align="right">1.0.0<br>34.4 MB</td></tr>
+<tr id="2940259847"><td><a href="previews/2940259847.gif"><img src="thumbs/2940259847.webp" width="96" alt=""></a></td><td><strong>玛丽(运动服)｜mari(sports)｜マリ(体操服)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2940259847</code></td><td align="right">1.0.0<br>29.3 MB</td></tr>
+<tr id="3317786972"><td><a href="previews/3317786972.gif"><img src="thumbs/3317786972.webp" width="96" alt=""></a></td><td><strong>玛丽娜(旗袍)｜marina(qipao)｜マリナ(チーパオ)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3317786972</code></td><td align="right">1.0.0<br>29.3 MB</td></tr>
+<tr id="2960479633"><td><a href="previews/2960479633.gif"><img src="thumbs/2960479633.webp" width="96" alt=""></a></td><td><strong>玛丽娜｜marina｜マリナ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2960479633</code></td><td align="right">1.0.0<br>19.0 MB</td></tr>
+<tr id="2930727682"><td><a href="previews/2930727682.gif"><img src="thumbs/2930727682.webp" width="96" alt=""></a></td><td><strong>玛丽｜mari｜マリ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2930727682</code></td><td align="right">1.0.0<br>55.7 MB</td></tr>
+<tr id="3591542544"><td><a href="previews/3591542544.gif"><img src="thumbs/3591542544.webp" width="96" alt=""></a></td><td><strong>玲纱(魔法少女)｜reisa(Magical)｜ライザ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3591542544</code></td><td align="right">1.0.0<br>43.4 MB</td></tr>
+<tr id="2974017050"><td><a href="previews/2974017050.gif"><img src="thumbs/2974017050.webp" width="96" alt=""></a></td><td><strong>玲纱｜reisa｜レイサ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2974017050</code></td><td align="right">1.0.0<br>35.0 MB</td></tr>
+<tr id="3592015572"><td><a href="previews/3592015572.gif"><img src="thumbs/3592015572.webp" width="96" alt=""></a></td><td><strong>玲美(魔法少女)｜suzumi(Magical)｜スズミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3592015572</code></td><td align="right">1.0.0<br>42.1 MB</td></tr>
+<tr id="2980050659"><td><a href="previews/2980050659.gif"><img src="thumbs/2980050659.webp" width="96" alt=""></a></td><td><strong>瑠美｜rumi｜ルミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2980050659</code></td><td align="right">1.0.0<br>25.6 MB</td></tr>
+<tr id="3294620403"><td><a href="previews/3294620403.gif"><img src="thumbs/3294620403.webp" width="96" alt=""></a></td><td><strong>白子(反转)｜shiroko(terror)｜シロコ(テラー)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3294620403</code></td><td align="right">1.0.0<br>34.7 MB</td></tr>
+<tr id="2896345691"><td><a href="previews/2896345691.gif"><img src="thumbs/2896345691.webp" width="96" alt=""></a></td><td><strong>白子(小车唯)｜shiroko(riding)｜シロコ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2896345691</code></td><td align="right">1.0.0<br>162.8 MB</td></tr>
+<tr id="3005768356"><td><a href="previews/3005768356.gif"><img src="thumbs/3005768356.webp" width="96" alt=""></a></td><td><strong>白子(泳装)｜shiroko(swim)｜シロコ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3005768356</code></td><td align="right">1.0.0<br>35.2 MB</td></tr>
+<tr id="2930233797"><td><a href="previews/2930233797.gif"><img src="thumbs/2930233797.webp" width="96" alt=""></a></td><td><strong>白子｜shiroko｜シロコ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2930233797</code></td><td align="right">1.0.0<br>23.2 MB</td></tr>
+<tr id="3369544139"><td><a href="previews/3369544139.gif"><img src="thumbs/3369544139.webp" width="96" alt=""></a></td><td><strong>皋月｜satsuki｜サツキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3369544139</code></td><td align="right">1.0.0<br>23.9 MB</td></tr>
+<tr id="3147554122"><td><a href="previews/3147554122.gif"><img src="thumbs/3147554122.webp" width="96" alt=""></a></td><td><strong>真琴｜makoto｜マコト｜Blue Archive</strong><br><span>Z_DK</span><br><code>3147554122</code></td><td align="right">1.0.0<br>34.0 MB</td></tr>
+<tr id="2948562693"><td><a href="previews/2948562693.gif"><img src="thumbs/2948562693.webp" width="96" alt=""></a></td><td><strong>真白(泳装)｜mashiro(swim)｜マシロ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2948562693</code></td><td align="right">1.0.0<br>29.2 MB</td></tr>
+<tr id="2960917429"><td><a href="previews/2960917429.gif"><img src="thumbs/2960917429.webp" width="96" alt=""></a></td><td><strong>真白｜mashiro｜マシロ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2960917429</code></td><td align="right">1.0.0<br>26.0 MB</td></tr>
 <tr id="3481411508"><td><a href="previews/3481411508.gif"><img src="thumbs/3481411508.webp" width="96" alt=""></a></td><td><strong>菲娜(导游)｜pina(guide)｜ピナ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3481411508</code></td><td align="right">1.0.1<br>40.0 MB</td></tr>
 </table>
