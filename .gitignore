@@ -1,0 +1,12 @@
+dist/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.publish-cache.json
+
+# Only assets referenced by index.json are committed; the publisher adds
+# them with `git add -f`. Everything else stays local for resuming a build.
+previews/*
+thumbs/*

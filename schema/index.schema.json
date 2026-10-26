@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Octocaris community index",
+  "type": "object",
+  "required": ["schemaVersion", "generatedAt", "repository", "releaseTag", "assetBaseUrl", "itemCount", "items"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "generatedAt": { "type": "string" },
+    "repository": { "type": "string" },
+    "releaseTag": { "type": "string" },
+    "assetBaseUrl": { "type": "string" },
+    "itemCount": { "type": "integer", "minimum": 0 },
+    "items": { "type": "array", "items": { "$ref": "#/$defs/item" } }
+  },
+  "$defs": {
+    "item": {
+      "type": "object",
+      "required": ["folder", "name", "author", "version", "preview", "download", "fileCount", "files"],
+      "properties": {
+        "folder": {
+          "type": "string",
+          "pattern": "^[0-9]{6,12}$",
+          "description": "Steam Workshop id: catalog key and install directory name"
+        },
+        "name": {
+          "type": "string",
+          "pattern": "\\uff5c",
+          "description": "Chinese｜English｜Japanese｜Blue Archive"
+        },
+        "author": { "type": "string" },
+        "description": { "type": "string" },
+        "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "entry": { "type": ["string", "null"] },
+        "license": { "type": ["string", "null"] },
+        "preview": {
+          "type": "object",
+          "required": ["url", "bytes"],
+          "properties": {
+            "url": { "type": "string", "pattern": "^previews/" },
+            "bytes": { "type": "integer", "minimum": 1 },
+            "width": { "type": "integer" },
+            "height": { "type": "integer" }
+          }
+        },
+        "download": {
+          "type": "object",
+          "required": ["url", "bytes", "sha256"],
+          "properties": {
+            "url": { "type": "string", "pattern": "^https://" },
+            "bytes": { "type": "integer", "minimum": 1, "maximum": 536870912 },
+            "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+          }
+        },
+        "fileCount": { "type": "integer", "minimum": 1 },
+        "filesTruncated": { "type": "boolean" },
+        "files": {
+          "type": "array",
+          "maxItems": 1000,
+          "items": {
+            "type": "object",
+            "required": ["path", "bytes"],
+            "properties": { "path": { "type": "string" }, "bytes": { "type": "integer" } }
+          }
+        },
+        "source": {
+          "type": ["object", "null"],
+          "properties": {
+            "kind": { "type": "string" },
+            "workshopId": { "type": "string" },
+            "workshopUrl": { "type": "string", "pattern": "^https://" }
+          }
+        },
+        "pageUrl": { "type": ["string", "null"] },
+        "updatedAt": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

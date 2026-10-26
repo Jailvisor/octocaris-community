@@ -1,0 +1,20 @@
+name: Takedown request
+description: Ask for a wallpaper to be removed from the catalog
+title: "takedown: <workshop id>"
+labels: ["takedown"]
+body:
+  - type: input
+    id: item
+    attributes:
+      label: Workshop id
+      description: The numeric id shown on the catalogue card and in the asset name.
+      placeholder: "3253308696"
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should it be removed?
+      description: You are the creator, or you represent them.
+    validations:
+      required: true

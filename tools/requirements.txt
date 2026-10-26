@@ -1,0 +1,2 @@
+# Only needed to build previews and thumbnails; validation and CI run on the stdlib.
+Pillow>=11,<14
