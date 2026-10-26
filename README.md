@@ -11,7 +11,7 @@
 
 ## 目录
 
-- **43 张壁纸 · 1.5 GB** 压缩包。
+- **63 张壁纸 · 2.1 GB** 压缩包。
 - `folder` 是 Steam 创意工坊 id：既是目录主键，也是安装目录名。更新时目录不变，
   壁纸选项、轮换和播放列表都会保留。
 - 动图预览在 [`previews/`](previews)，静态缩略图在 [`thumbs/`](thumbs)。
@@ -75,6 +75,26 @@
 <tr id="3486832041"><td><a href="previews/3486832041.gif"><img src="thumbs/3486832041.webp" width="96" alt=""></a></td><td><strong>名草｜nagusa｜ナグサ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3486832041</code></td><td align="right">1.0.0<br>47.4 MB</td></tr>
 <tr id="3277911136"><td><a href="previews/3277911136.gif"><img src="thumbs/3277911136.webp" width="96" alt=""></a></td><td><strong>吹雪(泳装)｜fubuki(swim)｜フブキ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3277911136</code></td><td align="right">1.0.0<br>42.3 MB</td></tr>
 <tr id="2936721093"><td><a href="previews/2936721093.gif"><img src="thumbs/2936721093.webp" width="96" alt=""></a></td><td><strong>吹雪｜fubuki｜フブキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2936721093</code></td><td align="right">1.0.0<br>31.9 MB</td></tr>
+<tr id="3450393929"><td><a href="previews/3450393929.gif"><img src="thumbs/3450393929.webp" width="96" alt=""></a></td><td><strong>和泉(新年)｜izumi(newyear)｜イズミ(新年)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3450393929</code></td><td align="right">1.0.0<br>23.0 MB</td></tr>
+<tr id="2882937360"><td><a href="previews/2882937360.gif"><img src="thumbs/2882937360.webp" width="96" alt=""></a></td><td><strong>和泉｜aizumi｜イズミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2882937360</code></td><td align="right">1.0.0<br>18.3 MB</td></tr>
+<tr id="3231191693"><td><a href="previews/3231191693.gif"><img src="thumbs/3231191693.webp" width="96" alt=""></a></td><td><strong>和纱(乐队)｜kazusa(band)｜カズサ(バンド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3231191693</code></td><td align="right">1.0.0<br>31.4 MB</td></tr>
+<tr id="2933767012"><td><a href="previews/2933767012.gif"><img src="thumbs/2933767012.webp" width="96" alt=""></a></td><td><strong>和纱｜kazusa｜カズサ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2933767012</code></td><td align="right">1.0.0<br>25.6 MB</td></tr>
+<tr id="3011639573"><td><a href="previews/3011639573.gif"><img src="thumbs/3011639573.webp" width="96" alt=""></a></td><td><strong>和香(温泉)｜nodoka(onsen)｜ノドカ(温泉)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3011639573</code></td><td align="right">1.0.0<br>39.3 MB</td></tr>
+<tr id="3006703126"><td><a href="previews/3006703126.gif"><img src="thumbs/3006703126.webp" width="96" alt=""></a></td><td><strong>和香｜nodoka｜ノドカ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3006703126</code></td><td align="right">1.0.0<br>31.1 MB</td></tr>
+<tr id="2992981880"><td><a href="previews/2992981880.gif"><img src="thumbs/2992981880.webp" width="96" alt=""></a></td><td><strong>咲(泳装)｜saki(swim)｜サキ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2992981880</code></td><td align="right">1.0.0<br>40.2 MB</td></tr>
+<tr id="2912949912"><td><a href="previews/2912949912.gif"><img src="thumbs/2912949912.webp" width="96" alt=""></a></td><td><strong>咲｜saki｜サキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2912949912</code></td><td align="right">1.0.0<br>32.1 MB</td></tr>
+<tr id="2939251317"><td><a href="previews/2939251317.gif"><img src="thumbs/2939251317.webp" width="96" alt=""></a></td><td><strong>响(啦啦队)｜hibiki(cheerleader)｜響(応援団)｜Blue Archive</strong><br><span>Z_DK</span><br><code>2939251317</code></td><td align="right">1.0.0<br>37.5 MB</td></tr>
+<tr id="2938097347"><td><a href="previews/2938097347.gif"><img src="thumbs/2938097347.webp" width="96" alt=""></a></td><td><strong>响｜hibiki｜ヒビキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2938097347</code></td><td align="right">1.0.0<br>35.8 MB</td></tr>
+<tr id="3534197475"><td><a href="previews/3534197475.gif"><img src="thumbs/3534197475.webp" width="96" alt=""></a></td><td><strong>圣娅(泳装)｜seia(swim)｜セイア(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3534197475</code></td><td align="right">1.0.0<br>38.0 MB</td></tr>
+<tr id="3411787001"><td><a href="previews/3411787001.gif"><img src="thumbs/3411787001.webp" width="96" alt=""></a></td><td><strong>圣娅｜seia｜セイア｜Blue Archive</strong><br><span>Z_DK</span><br><code>3411787001</code></td><td align="right">1.0.0<br>25.1 MB</td></tr>
+<tr id="2970809524"><td><a href="previews/2970809524.gif"><img src="thumbs/2970809524.webp" width="96" alt=""></a></td><td><strong>堇｜sumire｜スミレ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2970809524</code></td><td align="right">1.0.0<br>19.6 MB</td></tr>
+<tr id="3494662685"><td><a href="previews/3494662685.gif"><img src="thumbs/3494662685.webp" width="96" alt=""></a></td><td><strong>夏(乐队)｜natsu(band)｜ナツ(バンド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3494662685</code></td><td align="right">1.0.0<br>33.5 MB</td></tr>
+<tr id="2934203009"><td><a href="previews/2934203009.gif"><img src="thumbs/2934203009.webp" width="96" alt=""></a></td><td><strong>夏｜natsu｜ナツ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2934203009</code></td><td align="right">1.0.0<br>22.2 MB</td></tr>
+<tr id="3231899393"><td><a href="previews/3231899393.gif"><img src="thumbs/3231899393.webp" width="96" alt=""></a></td><td><strong>好美(乐队)｜yoshimi(band)｜ヨシミ(バンド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3231899393</code></td><td align="right">1.0.0<br>58.0 MB</td></tr>
+<tr id="2972602016"><td><a href="previews/2972602016.gif"><img src="thumbs/2972602016.webp" width="96" alt=""></a></td><td><strong>好美｜yoshimi｜ヨシミ｜Blue Archive</strong><br><span>Z_DK</span><br><code>2972602016</code></td><td align="right">1.0.0<br>23.6 MB</td></tr>
+<tr id="3751459072"><td><a href="previews/3751459072.gif"><img src="thumbs/3751459072.webp" width="96" alt=""></a></td><td><strong>妃咲(泳装)｜kisaki(swim)｜キサキ(水着)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3751459072</code></td><td align="right">1.0.0<br>48.9 MB</td></tr>
+<tr id="3338064889"><td><a href="previews/3338064889.gif"><img src="thumbs/3338064889.webp" width="96" alt=""></a></td><td><strong>妃咲｜kisaki｜キサキ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3338064889</code></td><td align="right">1.0.0<br>25.8 MB</td></tr>
+<tr id="3713570282"><td><a href="previews/3713570282.gif"><img src="thumbs/3713570282.webp" width="96" alt=""></a></td><td><strong>妮可｜niko｜ニコ｜Blue Archive</strong><br><span>Z_DK</span><br><code>3713570282</code></td><td align="right">1.0.0<br>46.8 MB</td></tr>
 <tr id="3253308696"><td><a href="previews/3253308696.gif"><img src="thumbs/3253308696.webp" width="96" alt=""></a></td><td><strong>小桃(女仆)｜momoi(maid)｜モモイ(メイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3253308696</code></td><td align="right">1.0.0<br>30.9 MB</td></tr>
 <tr id="3481411508"><td><a href="previews/3481411508.gif"><img src="thumbs/3481411508.webp" width="96" alt=""></a></td><td><strong>菲娜(导游)｜pina(guide)｜ピナ(ガイド)｜Blue Archive</strong><br><span>Z_DK</span><br><code>3481411508</code></td><td align="right">1.0.1<br>40.0 MB</td></tr>
 </table>
