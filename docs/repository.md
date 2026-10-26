@@ -73,10 +73,12 @@ python tools/publish.py sync --skip-build       # resume a stopped sync without 
 - `build` writes `dist/`, `previews/`, `thumbs/` and `.publish-cache.json`.
 - `render` only includes items marked uploaded, so the index never points at a
   missing asset. `--all` includes built-but-not-uploaded items for local review.
-- `upload` skips already-uploaded assets by name+size+digest. Re-running after a
-  network failure resumes where it stopped. `--force` uses `--clobber`.
-- `upload --jobs N` uploads batches in parallel; `--batch-size` controls how many
-  files go into one `gh release upload` call.
+- `upload` checks the release first, skips assets whose size and digest already
+  match, and uploads one file per `gh release upload` call. Transient errors
+  (408/429/5xx/timeouts) are retried with backoff (`--retries`, default 3).
+  `--jobs N` uploads files in parallel (default 2); `--force` uses `--clobber`.
+- Re-running after a network failure resumes where it stopped because upload
+  state lives in `.publish-cache.json` and the release is re-checked first.
 - `sync` is the unattended path: it runs `build`, then loops
   `upload --limit <batch-size>` → `render` → `validate --strict --check-assets` →
   `push`. It stops on the first failure and resumes when rerun, because upload

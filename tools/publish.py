@@ -18,6 +18,7 @@ import json
 import os
 import subprocess
 import sys
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -328,6 +329,24 @@ def pending_uploads(cache: dict, args) -> list[dict]:
     return entries
 
 
+TRANSIENT_MARKERS = (
+    "408", "429", "500", "502", "503", "504", "timeout", "timed out",
+    "connection reset", "connection aborted", "eof", "handshake", "tls",
+)
+
+
+def transient(error: Exception) -> bool:
+    text = str(error).lower()
+    return any(marker in text for marker in TRANSIENT_MARKERS)
+
+
+def remote_matches(info: dict | None, entry: dict) -> bool:
+    if not info or info.get("size") != entry["bytes"]:
+        return False
+    digest = info.get("digest") or ""
+    return not digest or digest == f"sha256:{entry['sha256']}"
+
+
 def command_upload(args) -> None:
     cache = load_cache()
     pending = pending_uploads(cache, args)
@@ -335,56 +354,68 @@ def command_upload(args) -> None:
         print("nothing to upload")
         return
     gh.ensure_release()
-    total_bytes = sum(entry["bytes"] for entry in pending)
-    print(f"uploading {len(pending)} asset(s), {catalog.human_size(total_bytes)}")
+    remote = gh.assets()
+    queue = []
+    for entry in pending:
+        info = remote.get(entry["asset"])
+        if remote_matches(info, entry) and not args.force:
+            entry["uploaded"] = True
+            save_cache(cache)
+            continue
+        queue.append(entry)
+    if not queue:
+        print("nothing to upload (pending assets are already on the release)")
+        return
+    total_bytes = sum(entry["bytes"] for entry in queue)
+    print(f"uploading {len(queue)} asset(s), {catalog.human_size(total_bytes)}")
 
-    batches = [
-        pending[start:start + args.batch_size]
-        for start in range(0, len(pending), args.batch_size)
-    ]
-
-    def upload_batch(batch: list[dict]) -> list[dict]:
-        paths = [str(DIST / entry["asset"]) for entry in batch]
-        gh.upload(paths, force=args.force)
-        return batch
-
+    lock = threading.Lock()
     done = 0
-    uploaded_bytes = 0
-    if args.jobs > 1:
-        with ThreadPoolExecutor(max_workers=args.jobs) as pool:
-            for batch in pool.map(upload_batch, batches):
-                done += len(batch)
-                uploaded_bytes += sum(entry["bytes"] for entry in batch)
-                print(f"  {done}/{len(pending)} sent ({catalog.human_size(uploaded_bytes)})")
-    else:
-        for batch in batches:
-            upload_batch(batch)
-            done += len(batch)
-            uploaded_bytes += sum(entry["bytes"] for entry in batch)
-            print(f"  {done}/{len(pending)} sent ({catalog.human_size(uploaded_bytes)})")
+    sent_bytes = 0
+    failures: list[tuple[str, str]] = []
+
+    def send(entry: dict) -> None:
+        nonlocal done, sent_bytes
+        path = DIST / entry["asset"]
+        existing = remote.get(entry["asset"])
+        force = args.force or bool(existing and not remote_matches(existing, entry))
+        for attempt in range(args.retries + 1):
+            try:
+                gh.upload([str(path)], force=force)
+                with lock:
+                    done += 1
+                    sent_bytes += entry["bytes"]
+                    print(f"  {done}/{len(queue)} sent ({catalog.human_size(sent_bytes)}) {entry['asset']}")
+                return
+            except Exception as error:
+                if attempt < args.retries and transient(error):
+                    delay = 10 * (attempt + 1)
+                    print(f"  retry {attempt + 1}/{args.retries} in {delay}s: {entry['asset']} ({error})")
+                    time.sleep(delay)
+                    force = True
+                    continue
+                with lock:
+                    failures.append((entry["asset"], str(error)))
+                    print(f"  failed: {entry['asset']} ({error})")
+                return
+
+    with ThreadPoolExecutor(max_workers=max(1, args.jobs)) as pool:
+        list(pool.map(send, queue))
 
     print("verifying remote assets")
     remote = gh.assets()
-    failed = 0
-    for entry in pending:
-        info = remote.get(entry["asset"])
-        if not info:
-            print(f"error: {entry['asset']} missing after upload")
-            failed += 1
-            continue
-        if info["size"] != entry["bytes"]:
-            print(f"error: {entry['asset']} size {info['size']} != {entry['bytes']}")
-            failed += 1
-            continue
-        digest = info.get("digest") or ""
-        if digest and digest != f"sha256:{entry['sha256']}":
-            print(f"error: {entry['asset']} digest mismatch")
-            failed += 1
-            continue
-        entry["uploaded"] = True
-        save_cache(cache)
-    print(f"verified {len(pending) - failed}/{len(pending)} asset(s)")
-    if failed:
+    verified = 0
+    for entry in queue:
+        if remote_matches(remote.get(entry["asset"]), entry):
+            entry["uploaded"] = True
+            verified += 1
+        else:
+            failures.append((entry["asset"], "missing or mismatched after upload"))
+    save_cache(cache)
+    print(f"verified {verified}/{len(queue)} asset(s)")
+    if failures:
+        for name, reason in failures:
+            print(f"error: {name}: {reason}")
         raise SystemExit(1)
 
 
@@ -475,8 +506,7 @@ def command_sync(args) -> None:
         batch += 1
         print(f"=== batch {batch}/{total_batches}: {pending} pending ===")
         upload_args = [
-            "upload", "--limit", str(args.batch_size),
-            "--batch-size", str(args.upload_batch), "--jobs", str(args.jobs),
+            "upload", "--limit", str(args.batch_size), "--jobs", str(args.jobs),
         ]
         if run_self(upload_args) != 0:
             print("upload failed; rerun sync to resume")
@@ -542,8 +572,8 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     upload = sub.add_parser("upload", help="upload built archives to the release")
     upload.add_argument("--only", help="comma separated workshop ids")
     upload.add_argument("--limit", type=int)
-    upload.add_argument("--batch-size", type=int, default=8)
-    upload.add_argument("--jobs", type=int, default=1)
+    upload.add_argument("--jobs", type=int, default=2)
+    upload.add_argument("--retries", type=int, default=3)
     upload.add_argument("--force", action="store_true", help="re-upload and clobber existing assets")
 
     validate_cmd = sub.add_parser("validate", help="validate index, previews and assets")
@@ -556,8 +586,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     sync = sub.add_parser("sync", help="build, then upload/render/validate/push in batches")
     sync.add_argument("--root")
     sync.add_argument("--batch-size", type=int, default=20)
-    sync.add_argument("--upload-batch", type=int, default=8)
-    sync.add_argument("--jobs", type=int, default=1)
+    sync.add_argument("--jobs", type=int, default=2)
     sync.add_argument("--max-batches", type=int)
     sync.add_argument("--skip-build", action="store_true")
     sync.add_argument("--skip-validate", action="store_true")
